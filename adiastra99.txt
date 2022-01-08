@@ -1,0 +1,2253 @@
+I need more sleep 
+why did you do this to me 
+why are you up at 2am 
+Gave a lecture I was super happy with, so by law I must now generally wander around feeling accomplished for the rest of the day 
+I'm a second semester senior and I'm still being \"introduced\" to something in 2/5 of my classes 
+also I'm really living up to my website bio rn 
+Idk if it's got a name, but Munroe's Law has a nice ring to it 
+Feel like personally I had it the other way around! 
+I don't even know what that is, so that sounds exactly right 
+Category theory is the closest branch of math to that \"statements dreamed up by the utterly DERANGED\" meme 
+Welcome aboard! 
+My entire feed is now and I couldn't be happier 
+it's hyperbole! What better place for it than here? 
+your 4-10 has 11 songs 
+I just told an email thread of every MATLAB user at Berkeley they should switch to Julia and my purpose in life's basically complete now 
+down for this 
+making plots for my lab report, or making abstract art? 
+Definitely not something I have to worry about 
+i guess it's an 
+hey this isn't sidbop 
+In a way, having such a complicated set of projects all going in parallel is a success, because I didn't expect to get to this point until well into a PhD 
+do white boys really need more time dedicated to them 
+spring break fun\nthis is definitely what my custom type should be doing 
+Twitter is my best source for home updates. \n(also, cats!!!) 
+Using a CNN as an intro to coding sounds wild, I wrote part of one for a homework after I was a couple years into coding and still found it really hard 
+gen z first learned that all systems would inevitably fail us when we read a series of unfortunate events 
+The thing that jumps to mind is QM ladder operators - this is an infinite matrix, but if you were computing with it I'd rather just let raise(|n&gt;) = sqrt(n+1) * |n+1&gt; than deal with the matrix 
+Are there use cases that are best served by an infinite-dimensional matrix/array object? I just came across a package implementing that, but can't think of where I'd rather use that than define my own computation rules outside of matrix math 
+Oh, true - you could recover hidden states by printing or similar, but not if they're deleted. Now I wish I'd voted \"can't decide\" 
+what is it tho 
+ooh is this one of those things that's like the meme of \"astronomers think everything except hydrogen is a metal\" 
+not sure why, but I was compelled to try this - GMDN is consistently lower than arithmetic mean for [1, ..., N]. Difference of about -6.43% by N = 100, which makes sense as the gap between AM and GM gets larger with increasing N 
+36 seconds today, it'll be a good one 
+I've run into this so much - I cry a single tear every time I make a list of lists just to flatten it immediately 
+You? Impressing your friends' parents? Never 
+-me, c. 2014-forever 
+No one tell divergence 
+somehow I doubt #rollestheorem is a trending hashtag 
+pranshu what does this mean 
+this thread is being crowdsourced by recent berkeley physics grads 
+Love this! 
+I guarantee I am the most respectable scientist! 
+handover going well rn? 
+Thank you! 
+Thank you! 
+Thank you! 
+Thank you! Hope I'll be able to visit the family soon! 
+Thank you! I have passed the torch 
+literally just spent half an hour doing this 
+Personally for most of my classes I used PDFs - gets too expensive to actually own more than a few textbooks, even second hand 
+perfect moment on the tl 
+taking a booster vaccine but as a sleep aid 
+yeah I was CBSE and that really killed it for me, esp the last two years of it 
+oo what board were you 
+\"web app\" + ratio 
+ratio (the only rule is Sid is the only one who can get ratiod in this thread) 
+look at me\ni'm the niche internet microcelebrity now 
+you manifested it 
+aren't we all just somebody in a skin suit 
+:( get well soon! 
+10/10 sop 
+Like I wouldn't say I *hated* it personally, but it was my favourite thing till age 11-12 and then after age 18, and for those years in the middle I just lost any enjoyment for it. It was just something I had to do to pass exams 
+I loved math as a kid, then lost it for about six years in school and only got it back in college! I'm still amazed that I fell out of love with it as hard as I did and I 100% think it's because of how it was taught - recipes for getting the right answer, no intuition, no beauty 
+love that this reply is public but the original tweet is private so there's absolutely no context 
+ah but you're failing to account for the rage-induced ritual burning of a small forest everyone does when they get really angry at how much spam email they're getting 
+This made me look up this incredible moment again 
+I used this so it was fun 
+wait that counts as basic? Idt I've ever seen that 
+Tbh this is what makes me feel like I've truly made it as an academic 
+phrenology but make it girlboss 
+oh minus the intent to do makeup tho 
+same! I did apps and then botw 
+interesting that she's been thinking about this for years then, I figured it was only a recent obsession bc \"the trans activists aren't letting me call them slurs on twitter :(\" 
+SPEW is treated by the text as childish and \"they like being slaves, actually\" so wouldn't that suggest a negative view of SCUM as being small-minded/unrealistic? Albeit in a terribly executed way 
+how's it connected to TERFism tho? Seems like just an equally terrible take on something different 
+my best guess is it's rooted in the idea that a PhD = a single moment of inspiration/absolute genius that immediately gets acknowledged. Normal people can only manage 1 at most so these TV super geniuses must be N times smarter than the smartest person you've ever met 
+in addition to why I'm wondering how - you'd have to be 55-60 or something and continually earning PhDs your whole adult life 
+hyping up all my grad app drafts!!! 
+also, my \"this is not phrenology\" t-shirt has people asking a lot of questions already answered by my shirt 
+assigned female by app, the future is amazing 
+I think it's the main messaging app used in China? Maybe it's a more reliable way to contact applicants who are there, does seem weird tho 
+Yeah I think it's fairly common, I like it for formatting control + aesthetic 
+\\usepackage{anyfontsize}\n\\usepackage{yfonts}\n...\n\\yinipar{T}\\\\{\\fontsize{40}{40}\\selectfont he}\n\ntook about 10 mins of stackoverflow-ing 
+the best tweets are the ones that take a good ten minutes to line up in latex right 
+\"how are applications going?\" 
+I'd like it if there was a cap of like 5 classes you could put in - not sure there's any value to listing your textbook for intro calculus, bc if you've done more advanced stuff you clearly know that well anyway 
+Isn't \"the extra 10% won't prevent that many deaths\" just false? NHS workers are in close contact with the most vulnerable people, and also they can and will bring covid home with them and then it goes to their kids' school and etc etc - it can spiral out easily 
+To clarify I'm also not a python hater, I just think it's got some limitations/leaves you vulnerable to hammer-nail issues. V good as a general purpose hack language + some (most?) applications 
+The comment that prefers Matlab to Python is just wild to me lol. I'm not the biggest Python fan myself but imo anything there is not to like about it is just objectively worse in Matlab, unless you're specifically using simulink 
+Mine had almost nothing but the title 
+Home Alone 2 
+oh yeah I've heard great but horrifying things from friends (as in it's enjoyable but super difficult) 
+good morning and good luck! what's it for? 
+oo what'd you find 
+Huh interesting, to me mainstacks is the more miserable one 
+wait what's scary about moffitt 
+I actually can't think of who we'll probably remember a century from now tbh. For the 20th century it's arguably Einstein and Hitler, so very possible (for better or worse) we don't know who that is for the 21st 
+new header image? 
+what did you expect to happen in college if not this 
+JWST is short for Jersey Wgeorge iSkander's Twitter 
+*knocks on wood* \ni am simply trying my hardest not to think about it till it's done 
+wait in american versions it's \"drug store\"? that feels so wrong to me, I've always read \"chemist's\" 
+will your relationship announcement just be the lack of one of these tweets 
+wait what are they lying about? 
+I'm convinced python's lack of built in invariants (type checks, letting things fail at runtime, suppressing errors) has led to at least a few bad science results 
+I guess you could say it's Im e^ikx summed from 1 to n 
+oh god oh no I wish I hadn't done that 
+we really are just iterating on the same four jokes over a period of months aren't we 
+ah mine wasn't quite the same 
+didn't i tweet this at some point as my only out of character moment 
+PG&amp;E is just the *best* service isn't it 
+oof where 
+\"bachelotters\" zarina this is a work of art 
+oooh what was it about? 
+isn't that every button in matlab 
+i work with a computer called seal so that's pretty close! 
+TIL what Pamplemousse is 
+True but the day to day utility of preponed is unparalleled. It's unique in that it filled a need that synonyms just can't 
+yeah it's the best thing Indian English ever did 
+Google what do you mean \"not many\". Why is it not none. 
+what if I'm a passive follower 
+i'm giving myself a preemptive 🌵 on this one and not dealing with it 
+The T in JWST stands for Taylor's version 
+Woah can you tell the TIME Person of the Year that? 
+Did not even know that was a group that existed. This is more relevant on here every day 
+Lmao and I thought my batch was bad 
+today I both did and didn't send a message 
+It's very in character isn't it 
+it's pretty fun! took an enjoyable amount of brain and time to algorithmize what I was doing 
+if anyone's interested, 
+(yes there's both a Sudoku.jl and existing numerical algorithms out there, but I'm challenging myself to figure it out on my own) 
+i made julia become as good at sudoku as i am! turns out a day of post grad-apps brain rot is all i can tolerate 
+This is one of my fav pictures of me! It was one of my last days in Berkeley and I was selling my bike (just below frame) to a friend, who took the picture 
+the dream 
+Smh you gotta grade yourself on a curve 
+rebranding by moving up the food chain one step at a time until you're \"apex predator* 
+something like this 
+Wait I looked ahead and I hate 30. Good to know what the question creators think of me wow 
+i'd be lowkey worried about someone who was (that or they're just super open and that can be healthy ig) 
+also wow they really put \"have you ever self harmed\" on there, and at 4 
+imagining the chaos of someone answering yes to 10 and no to 11 
+they did this to me for two months with United States of Al I hated it 
+flying! I actually kinda remember some flying type gym leaders with a streak in their hair 
+what IS the deal with microwave noises. In Berkeley I had this one that would beep once a minute if it was done but you hadn't opened the door yet. I was constantly asking what its deal was 
+damn guess it made you look 
+Does liking it move me up in consideration for inclusion on the list 
+funny AND self affirming! this is my fav tweet of yours ever 
+Oh yeah there's tons of computational ways but my challenge here is to only do steps a human would do 
+it's bc ultimately one place has seasons and the other just has slight temperature fluctuations 
+Love the idea that the NFT craze could be dismantled just by referring to completely unrelated things as NFTs 
+i read this and just instinctively thought \"he's my witness\"\ni'm not even that much of a fan of the song 
+Wait is the metaverse just worse minecraft 
+here's what it's solving btw 
+the generalizing code is admittedly pretty dumb, it just loops over all possible guesses till it finds one that solves the puzzle. In my defense that's probably the most human thing I could have it do 
+good news: i think i'm solving general puzzles!\nbad news: most humans probably don't allocate 26.6 GB of memory to solving a Sudoku... 
+hate that I'm so sorry :( but also what does \"space isn't real\" even MEAN 
+Do it it's great 
+lmao I feel this weird sense of solidarity at seeing you also get a ~50 follower bump off one tweet up to nearly 500 after I just did the same thing 
+was the question \"what's the stupidest name for a famous person you can think of\" 
+This implies we've already successfully avoided time travelling pirates during shipping, go us 
+Found a UK survey that cites practical barriers as the 7th of 9 reasons why people are refusing it (no numbers, but I figure the ranking is an order of importance/frequency - wish I had something more concrete tho)  
+I want to look for statistics on who vaccine refusers are to see if this holds any water, but can't imagine googling \"why are people refusing the vaccine\" will turn up anything useful lol 
+i vaguely remember a bunch of stuff from thermo about canonical ensembles, what are those and how do they help us? 
+astro twitter is going absolutely wild rn 
+depending on how far back you wanna go for \"original\", this could be as far back as 2007 
+c name reveal :o 
+and therefore I just won't 
+I don't even know where to start with this one 
+I remember really early in the pandemic reading this from some right wing news site, and thinking it'd be really easy to clear up if they'd ever seen the difference between a first and second derivative 
+Having done an iposter last year, I'd have *vastly* preferred just doing a 5-10 minute zoom talk over a slide deck, or a poster I could lay out in Illustrator and make available as a pdf 
+How long's the flight?\nAlso what's a hobby/other thing you only started doing post march 2020 
+yes the numbers may prove your point, but have you considered this slur I just called you 
+rookie mistake, if you wanna be someone's friend you tell their upcoming tinder date about their twitter 
+don't forget the lack of seasonal change in berkeley 
+Wait I thought you already had an nsfw alt 
+For some reason it really bugs me that they're just going ahead with aas240 in June instead of renaming that one to aas239. This way aas239 will never actually exist 
+that would be the \"more or less\" 
+I'm amazed that we've all more or less resolved this for charging tbh. I'm charging my phone with my Switch cable rn it's great 
+do it you'll make 8 people's day 
+whoops guess that makes me the first one to blink 
+lmao I thought you knew that and were misreading on purpose for the bit 
+Wooo congrats! What kinds of things will you be working on? 
+I KNOW he saw this, it just didn't prompt the kind of self reflection that would've actually helped  
+Diaspora parent standards transfer to twitter too huh 
+critical... support? 
+My mother has ~500x my followers and I live in constant fear of getting ratiod by her 
+Ah gotcha 
+ah so ig that lets you ignore the actually justifiable reasons to be mad like student debt and write it off as people complaining about smaller paychecks? (which would be valid if true) it's breaking my brain how little sense this makes 
+wait what's even his point here? people will complain about the economy if their wages go down? like...yes? 
+yeah I didn't think much of that bc it only ended up being one skipped week, but next term might do more of that unfortunately, we'll see ig 
+isn't this a really sad way to spend your finite time on earth 
+I found that super weird bc up to now they've been pretty good about safety and awareness - guess everyone in this country eventually falls victim to \"there's no pandemic because we can't be allowed to miss a second Christmas\" syndrome 
+git rebase is evil and should never be used, I just tried to squash 5 commits and instead I made 5 more trying to fix what it did 
+Werner von Braun was mentioned so this is obligatory 
+it's one space telescope michael, what could it cost? $10 billion? 
+so true 
+I was 50/50 on mentioning it lol but I did go for it 
+there's a spitter chess gc! wanna join? 
+It's p great 
+woo we did it!! 
+wait what's her deal 
+I would say Shrek if I didn't know exactly what was being hidden so I'll say piss cloud 
+bruno mars and anderson .paak's much less successful follow up 
+i thought this until this exact moment 
+this prompted me to rewatch that scene, great stuff 
+wait weren't those jesse eisenberg's flip-flops 
+I will simply leave this here 
+Can't recommend Fleabag enough, Mrs Maisel is also solid but Fleabag is excellent 
+me with grad apps 
+wait what's the one I'm not on then 
+dammit that's whamageddon I was so close (or I guess I made it, depending) 
+So 7 of us aren't enemies hm 
+Wait what'd he say 
+your influence 
+Me watching the closed captioning w sound off 
+Shoutout to the NASA camera guy trying to get anything through the clouds 
+hopefully mine for a start! today is definitely not a day to panic 
+I am in love with the phrase \"collective beautiful smooth mirrorboy son\" 
+I'm obsessed with how the problem here is there's other places he would want to kiss himself in a mirror if only it were physically possible. Where. Why. 
+Wait this sounds amazing as a tradition 
+oh boy I can't wait to wake up to this one 
+when* not it idk how that happened 
+Oh it totally is, just that it's the kind of joke you'll get with almost all his posts and it wears thin quickly 
+The issue's more it he uses his massive scicomm platform to be pedantic 24/7, people think that's what science is and that's at best a waste. Most physics/astro people I know don't have a problem with specific posts so much as his \"physics is for the annoying kid in class\" vibe 
+I really thought doing gitlet would set me up for life but it was not to be 
+I'm fine clogging my own repos with those bc the high commit count gives me a sense of achievement, but can see why you wouldn't wanna do it when working with others 
+I see it as \"don't bug your collaborators with n commits that are all, like, fixing typos bc for clarity all of that should be in one commit\" 
+I've chosen to never get around to it 
+i hate to be the one to tell you this but it exists 
+linear algebra has really been taking off in movies, ever since Tony Stark solved time travel using the eigenvalues of a Mobius strip 
+also this conversation completely derailed our group chat 
+I got curious about this and looked it up, and it turns out it's just a coincidence that even surprised Hilbert! (from the Wikipedia for spectral theory, and there's an article behind it) 
+same but as grad student 
+I thought I was the only one!!! 
+I think it's more like short talk hours 
+woah what brings you to the bay area? 
+got chills when I realized Marion Zioncheck was a real guy and listened to it again 
+tbh astro twitter could do with a little less stability 
+why can't I be both 
+you were talking about this a few months ago right? this is like my mini thread from then but 100x better 
+wait how? I feel like this is one of those physicsy things where I'll go \"oh that makes sense\" but not challenge myself to understand it 
+new album is going to be my driving soundtrack for months 
+ew I'm so sorry anyone does that :(( 
+tag yourself I'm San Jortland 
+*vision meme* maybe i am a white woman 
+I made a twitter bot to tweet out fake JWST acronyms every 3 hours! Check it out at done my best to purge it of any offensive words, but if there's anything you think should be taken down once it gets going, feel free to DM me! 
+it is done! check out 
+I'm kinda down to make this lol can I have IP permission 
+wait doesn't one constraint supersede the other 
+lol did you get it right, idt this ever came up in the aeross days 
+lmao I replied at exactly the same time 
+My has prepared me for this day 
+Anyway I decided it's not worth the energy and I'd rather keep my feed relatively positive 
+He did specifically say Einstein tho 
+It is virtually impossible to guess the context here 
+but I feel fairly good about my bet 
+well even if not you, there's...others 
+right on cue. i will merely say there is a lot of unrequited lesbian yearning on spitter these days 
+ellen would read this, send me a screenshot, and go \"omg do you think they might like me\" 
+i suddenly had the thought \"wait did it burn\" as I was drifting off to sleep, and I am not disappointed. Good omen for 2022 I hope 
+are the D and C based on 90-100 A 80-90 B etc grading? 
+Consistency is key when building a brand 
+Omg I love talking about this: back in the day Anna had a \"10k tweets before 200 followers\" challenge (she didn't make it) 
+No we want more 
+did I accidentally make 3/26ths of a vocabulary bot 
+new word for me! \"Tubicinate\" is apparently \"to blow a trumpet\" 
+i just had a meal at 2:30pm that we all called breakfast so 
+no idea what'll work until I hit something that does 
+That is interesting, I'm not sure! I know when I'm solving by hand I have an intuitive sense for that \"tipping point\", so it sounds like it should be possible. I think it'd need a more sophisticated solution than guess-and-recurse though, as that strategy basically admits I have 
+thanks! i spent a while on it lol, i started writing at 11pm thinking \"oh i'll just give it like an hour\" and oops now it's 6am 
+I wrote up my process for how I made a Sudoku solver! It turned out to be a nice illustration of the many ways you can think through a computational problem, and how well-chosen structures can give you performance benefits! Read it here: 
+this would also not be hard but i'll leave it to you lol 
+imo that really is a win 
+Hm ishaan I can't think of any of our friends that that reminds us of 🤔 
+Well I've always learned best from your elaborate storytelling 
+Inferring a rich backstory from ishaan's vague references 
+\"triviality\" is in the list! 
+hit tweet from about a year from now when the first jwst science papers come out 
+I give it a week 
+erasing the names of homophobes is a public service 😌 
+It may also pick some obscure words, I couldn't remove all of those manually - I'll probably end up periodically purging the more nonsensical ones and maybe replacing them with more normal words as I find them 
+it wasn't always this way - a few years ago it was pretty reasonable! There was a price hike I think roughly coincident with their IPO, which is also when they started treating drivers worse (Prop 22, etc) 
+love the implication that all trans people are transphobic lmao. very good logic right there 
+this is the usual regex progression 
+we've got a spitter chess chat! wanna join? 
+Well if you blacked out how do you know 
+happy birthday devaki! 
+I am steadily being eclipsed by my robotic son 
+currently having a great time playing 1-minute chess games! I've never lost all my pieces this fast and still won 
+weirdest one yet lol 
+Yeah I think that's fair 
+Mm fair enough, I guess that's just up to personal taste but I really like the direction it's taken this year 
+I don't remember that one, was it this year? 
+I guess there's some of that in making videos that are a digestible length meaning you have to drop some nuance, but it's never struck me as a real problem 
+Wait wdym? I like her stuff and don't see that much repetition/reductionism 
+not me tweeting this and immediately going \"omg a new notification on jelescope i wonder what it is\" 
+on shameless self promotion and on 
+Biking on MLK should be classified as an adventure sport, it's exhilarating and also deeply terrifying every time 
+it's actually in there twice, because both \"jeans\" and \"weans\" are valid words! So it's at least (marginally) more likely than most others 
+According to one-sixth of all known laws of aviation... 
+a rare advance sighting of a new era 
+That's the trick, you don't do openings in bullet, you just vibe and win on time 
+Down but let's do like 10m lol 
+i suck at bullet i just love premoving everything and seeing what happens 
+I found mate in a 30 second game lmao and also half my moves were some variation of wrong 
+Me dying twice in the tutorial for Hollow Knight 
+I guess this is where they got the idea of the whip in politics 
+another weird one! 
+like, imagine it's saying \"12 year olds, IQ as a measure of intelligence, and crypto are all stupid\" 
+yknow, a certain reading of this headline is incredibly based 
+Nah she just believes too much in Russell and Whitehead 
+top level that I import into every file in src! 
+can confirm I'm one of many people! 
+lmao I think bart is more expensive than an Indian uber 
+great way to waste, like, six hours 
+Probably the best way methodically is to start reading up on advanced methods human Sudoku players use. That'll need some notion of \"partial conditioning\": either A or B, if A then C, if B then C, so C. These chains might be several steps long, maybe difficult to algorithmize 
+to guess, I have an idea of which cells are more \"critical\" to the puzzle and which ones are less so, ie if I successfully identify *this* one, it's most likely to lead me to the rest, as opposed to just filling in one or two extra values. 
+known to the app, that changes a bit because it means you can accept a guess for the first cell you try that with. A bit of intuition that I'm really not sure how to translate is - when I look at a puzzle where I've applied all the constraints I can and have to pick where 
+If you've got something telling you when there's an error, the guessing part changes a bit - as I wrote it, it's possible to run through all the possibilities for a particular cell and not accept any of them because they don't give you the rest of the puzzle. With the solution 
+one of the i4 by any chance? 
+a weird one again! 
+glasses! they really suit you 
+it's fine this is a great one 
+happy birthday!!! 
+I searched my messenger out of curiosity and I found out we'd talked about it way back in the aeross days lol, apparently one of the proposal ideas I was kicking around was relocating JWST (not sure where to) 
+ah I don't have a twitch rn so you're ahead of me anyway 
+spitter chess gc wanna join? also down to play anna/you on stream sometime 
+I agree with you but just because I really like waterfalls 
+General relativity failed to account for spacethyme 
+it's a great equation! 
+can you give me a sample url or two where you need to match a pattern 
+further enhancement that I think would be neat: bash tool where you can\n- input a search term (author:\"^Sengupta, Aditya\" year:2021 PSF)\n- print the first 3-5 search results w abstracts, input a number 1-N to pick the one you want and it gets the does this exist lol 
+wait I know regex lemme try this 
+also wait it's 1:35am, you're still in the uk? 
+what's the most annoying part here? i've generally been quite happy with the ADS layout, but have never really tried to automate anything with it 
+the struggle is real 
+they're in the list! we'll be blessed at some point 
+Helps if you're 500 
+Congratulations to Conditional Probability for becoming 2021's Misunderstood Math Concept of the Year! 
+What's the opposite of \"posts from a darker timeline\" 
+The funny mutual just for \"probably gay\" 
+3. the zero point on the deaths graph y axis is 2.1k deaths a day 
+evidence: this is the premise of a movie in which he appeared as himself 
+I'm a big fan of the conspiracy theory that he's from an alternate reality where there's some musician we've never heard of, and he's the only person in this reality that remembers them so he's famous for passing off covers of their equivalent of the Beatles as his songs 
+^^^ yes absolutely 
+Kirsten's new on there and she's got a ton of followers so maybe this is a bad metric lol 
+woo congrats 
+Can't believe you bought charles de gaulle 
+Fair enough, we're way off on a tangent anyway 
+Eh I mean they were building theme parks to it in America around then and the movies ran through his first term 
+is HP neoliberal? that's the stereotype of people who are still HP fans, but that's not the same as saying the story itself is neoliberal 
+it was already in but i added two more bc each of those is a word! 
+brb adding that 
+how do I fix my sleep cycle 
+Wait wouldn't the house be the Chilean presidential palace in this case 
+Beautiful explanation/takedown from 
+fool of a 
+yeah it was pretty easy! I spent an hour on mine, most of which was just compiling the list of words lol. Check out 
+Wait this is just A Very Potter Musical 
+wait I just noticed \"saved your burning building from a cat\" lmao 
+oh no this situation is too far gone for that, all that's left for me to do here is be chaotic 
+Oh good you're dropping the subtlety 
+gradually cutting out unhealthy foods to lose weight way slower than i really should, call that a decarbonization measure 
+I've been looking at this for hours and idk what I am, someone assign me one pls 
+I love that movie so much!!! I moved internationally at about that age and I'd never found something that so perfectly described how I felt\n(also, coming back to it in college, the Cheeseboard shoutout was fun lol) 
+Rip I don't live there any more idk what ability I have 
+see that makes sense! All I'll say is she was an optimist 
+reading book Humble Pi and suddenly wondering about a hypothetical Y2B problem 
+lmao my housemate did this, and it was post vaccine pre delta so she didn't even have an excuse 
+What a good tweet that makes semantic sense 
+Would be cool to control this using some metric of test availability, but idk how you'd acquire that data 
+i mean you've been 4 places in a month that's not awful 
+You did it yay!! 
+I can't believe this wasn't your redesign and is in fact an original 
+There it is 
+ok now what 
+\"you talked to THE Patel brothers\" I'm dead omg 
+I don't know which of these is the word lol 
+I once had a plan that I soon abandoned for a holi launch where I'd put powder in with the chute, for the dual effect of *the aesthetic* and finding the thing against the sky 
+reading this and just thinking \"pan galactic gargle blaster\" 
+I love the idea that BART will reach Europe before it reaches the South Bay 
+[chronic skim-reader] this sounds so lovely, happy new year! 
+Dw no one does 
+eps, in some languages 
+friends in different time zones who time their happy new years for your midnight &gt;&gt;&gt;&gt;&gt; 
+Omg I'm dying 
+nah i think this year it'll work 
+four things, if you include the aforementioned uhaul (let's just say I was an improvisational gardener) 
+- graduated college\n- designed and taught a class\n- gave five science/computing talks\n- moved twice, once internationally (figuring out how to drive a uhaul along the way) and started a masters\n- experienced at least three things that can go wrong when you're driving a car 
+Absolutely perfect then 
+yay I can reset my nickname now! 
+spirit is when nothing in walking distance 
+Imagine trying to guess the intervening messages here 
+nah Ellen's particular style is a special case 
+by her standards yes 
+oh we're back to subtlety 
+and share all my biryani??? absolutely yes 
+sounds like a pokemon 
+this must be, like, at least the fourth time i've been able to use this 
+Make up a bunch of fun facts about Jack 
+I've never read anything more Berkeley 
+You already know 
+Gonna put myself in the running for this one 
+literally a text I sent yesterday 
+lol I felt the need to give it to someone who's been more impacted by her work! 
+while essential for obvious reasons, the mask makes this 1000x creepier 
+Missed opportunity to infinitely repeat the flag within each pair of horses 
+(I realize it's not a state, but please do one) 
+How will you ever top this one 
+(ok I'm done with this bit) 
+does one really know oneself 
+Totally get feeling too awkward to tell me directly 
+I'm trying a new format, it'll 50/50 between the s-substituted word and space! This way I can include roots that start with s too 
+I can't believe this is how I found out \\colon exists 
+did a quick update and i'm absolutely cackling at this one 
+brb adding this to the bot 
+Putting my hat in the ring as the most trustworthy (least likely to be able to do anything with it as I'm not in the country) 
+JWST stands for jem-dash—wem-dash tem-dash 
+hey nice rhyme 
+at this rate it'll take 33 days for all of humanity to be running Jack's account 
+skills I have acquired over a long career...working only on this one telescope 
+did you catch the Cheeseboard ref hehe 
+just taught a 5 year old kid about aliasing, gotta get them started young 
+Omg this is such a high honor 
+This has such a pleasing musical kind of sound to it somehow 
+this is like playing chess 
+it's dz * 2, right? 
+I witnessed this yesterday, can confirm it really is wild 
+Just sarcasm bc SF Pride is dead this year apparently 
+Great main event for SF Pride this year, complete with tickets starting at $25 (and mostly much more than that) 
+gonna ask for the check by saying \":wq\" 
+I get a lot of Americans making (light-hearted) fun of how I still say it! 
+Renoux Falls sounds like a nice name actually 
+The first thing I did on twitter was block him, and it's so much better this way 
+I have high expectations from your apartment 
+this is far beyond my understanding pls eli5 
+let's say,,,hypothetically, that you had the chance to 
+this legitimately just worked 
+apparently the solution to fixing Julia problems is to download a newer version, not to use it, but to threaten the old one with obsolescence 
+I'm on the west coast it's a Friday early afternoon 
+another day another reason DifferentialEquations.jl doesn't want to compile \n\nI'm not even working with differential equations 
+That line killed in a theater full of UC Berkeley engineers 
+Unrelated to anything but I keep opening Piazza on instinct (in my usual twitter/fb rotation) and then realizing I don't have anything there 
+Even now I'm using your network to make friends 
+wait I can't believe I didn't try out \"a series of unfortunate events\" yet 
+my brain also keeps going \"the haunting of hill house\" 
+or like, what are its vibes, did it make you sad or happy or angry 
+Me too?? 
+i realize this doesn't matter but it also does matter a great deal 
+is \"yassification\" a noun 
+any idea what happened in it? was it for kids? 
+the adventures of sherlock holmes 
+the story of tracy beaker 
+\"community cheese\" sounds like monopoly 
+good luck!!! you got this, lmk if i can help 
+i wonder how correlated those two are 
+tbh i was really hoping other people on your alt would get a laugh out of this lol 
+ah nice so they do observe some things 
+who's Jolyne lmao 
+the what effect 
+I like this! I'll try updating it to do that tomorrow 
+No way, they made into a real thing 
+march 2020 was truly the curse of knowledge 
+Omg jelescope is on here 
+Jelescope brought me in at second circle wow 
+I love this! 
+This is beautiful 
+What's the song? 
+albeit for the opposite reason 
+SAME I've been putting it off on purpose 
+more like ratio silence 
+oo happy belated birthday! 
+wait is it today? 
+Oo I love this feeling! 
+omg for once you're not caught up on anna lore 
+i'm pretty sure this is it, not taking any criticism at this time 
+uhhh ann arbor become leopard 
+same re: sleep 
+I'm also scrolling through goodreads and I think it'd be hilarious if she just went \"oh yeah it's that one!\" to something that is not even close to her criteria lmao, like \"Guns, Germs, and Steel\" 
+oh yeah they're incredible 
+i'm literally on so many lists of classic books rn 
+the curious incident of the dog in the night-time (no way this is it) 
+ellen's, like, a week from proposing marriage in anna's replies 
+you really are tho! 
+the admission committee, you say...👀 
+what in the 
+the thompson show 
+Ty to for the version that was open source and didn't require me to spoil the day's word to show this off! 
+Continuing my theme of \"ruining perfectly fun games by making computers solve them\", I wrote a Wordle solver! Post to follow at some point when I can figure out how to explain in a way that's not *handwaves* \"entropy!\"\n(this is from not the real puzzle!) 
+Oh yeah maybe he's always like this, I've been blessed enough to not have had him on my radar much before 
+He's really been quite the bad take machine lately lmao 
+ha yes new update just dropped, even though it apparently misspelled \"solder\" or is using a word I don't know 
+who gets bent out of what 
+wait nvm there's no layers this happened on the book confusion post nvm me 
+the *layers* to this 
+JWST stands for JI'm sorry Wdave, i'm Safraid i can't do That 
+Tbh not a bad first guess for coverage of common letters lmao 
+dammit I forgot to save the update lol 
+the dream lol, nah jelescope's on third 
+omg me (I'm promoting this everywhere I can see lmao) 
+here's the check summed over all queries where one character matches (either yellow or green) 
+Depends on the query result, there's 125 possibilities and I'm not sure how to summarize them — but here's the same check as above for a zero-match on each! 
+in action 
+Oh I just did this! - it's kinda basic on the info theory, just maximizes entropy of [# green, # yellow, # black] summed over all letters, over all possible words 
+by \"wholesome\" do you mean \"making holes in people's heads\" 
+let's go 
+this might not be a perfect metric but it does pretty well, it let me get today's in 3 
+learning those actually gives you a lot of information, because eliminating those common consonants does a lot too! I just ran this and found that this case shrinks the possibilities from 9330 to 109 — and then you make another high-diff-entropy guess to narrow it down further 
+I think it's still helpful to guess high-probability letters on the first go even if they don't come up green, because having them come up black also shrinks the candidate set significantly. Most words have an E or A in them, so knowing this one doesn't helps a lot 
+I figured: for each character, each candidate word either has green, yellow, or black in that position, and the decision that gives you the most information is the one maximizing the entropy of the distribution [g, y, b] / (g + y + b) - loop over all letters, all words 
+i actually calculated the word that maximizes the entropy difference and it's \"tares\"! (subject to some specifics in how it's calculated) 
+Become a part of this project here! 
+life is great when you cheat!\n\nWordle 200 3/6\n\n🟩⬛🟨🟩⬛\n🟩⬛🟨🟩🟩\n🟩🟩🟩🟩🟩 
+Jack alone probably won't be enough training data so here's an idea: like this if you want to opt in to a Spitter Bot! If you like it I will add all your tweets into the model (unless you later dm me to take it back, which is no problem) 
+which is not to say I won't do it 🤔 
+I think that might need GPT-3 lmao 
+Not convinced James Winterkill wasn't a character on Game of Thrones 
+This is the most realistic drafts check I've seen tbh. I can't fathom having full tweets ready to go and just not posted, but this? Perfection 
+That'd be useful as a tiebreaker at the end, since before then we care about what gets the best splits instead of which word is more common (\"tares\" is p weird). For now though, there's no way for the program to know which word is more common so not sure how I'd implement that 
+Idk what I mean by this, but that statement is always true 
+Just Wild Stats on Twitter 
+do it! 
+I'm never not sad when I think about who she is and who she could've been if she just lashed out less 
+oo I'd love to see how the hand tabulation works! 
+computer says \"coaly\", but idk how human-like the subsequent chains of guesses would be! it'll be interesting to reason out how to choose certain features towards that 
+it was one of the 13 colonies, but that's a bit outdated now 
+cnew york it is then 
+the city of new york? 
+mildly disappointed they don't all alliterate but i love this list! 
+for a second i was legitimately like \"what's a Dyson vacuum, is that when you build a Dyson sphere around a black hole\" 
+being two people (derogatory (medical)) 
+yeah till like 2 days ago they were! 
+Nah that's by design, jelescope 2.0 is supposed to keep any one word from the real thing and randomize over the rest – it just seems to like keeping Webb and Space more than James and Telescope 
+spitter recruitment strategy 
+oops yeah lol I sent my first reply above saying something similar 
+yeah, I figure this is mostly a limitation based on what candidate words a human can think of—for a computer it gets way easier after you eliminate a bunch of high-probability letters. (after you tested r and s, you rule out every word that has them, which is a lot!) 
+Can't believe all that's standing between us and cold fusion is the marketing! 
+I was about to suggest doing something with mount rushmore then I looked up their actual flag 
+I think I'm old at heart then 
+No just \"ellen, the one who fights god\", you're making a declarative statement about yourself not asking a question in the third person 
+New screen name 
+(slightly giving up subtlety in how bad I want PhD committees to notice me) 
+This is actually one of the main things I wanna change about astro code: composability sucks in most cases and means you have to expend huge amounts of manual effort on code hacks instead of actual science. I'll try and make all my work super composable as a test case! 
+Woman Denethor sounds interesting! How do you think that affected it? Like it becomes a sibling rivalry for a mother's approval instead of a father's, does that change how you read Boromir and Faramir throughout? 
+I flipped my entropy criterion, filtered through some that are technically words but aren't really common, and came up with \"immix\", \"fuzzy\", \"whizz\", \"oxbow\", and \"kudzu\" as the top five — interested to see if there's ones that are worse for human guessing, though! 
+don't make me tap the sign (search our dm for the 10+ times we've had this conversation about why that's a reductive view and not helpful) 
+bay area time (and I'll be there at some point idk when!) 
+consider your tweet funged 
+for some reason this reminded me of the nine billion names of god 
+wait are we back to the real jack 
+submitting three grad apps today! 
+So like, I've got the best word for one metric, but that might not always result in the easiest sequence of guesses, which is hard to quantify 
+Yup! It's not an easy decision though — others have suggested that you don't want to use up all your really common letters early on if you're on hard mode, since the resulting high-probability guesses aren't easy for humans to think of 
+I did some entropy calculations and it came up with \"tares\", which has worked pretty well for me! 
+he should really go to some islands 
+I'm going to get a good grade in covid test-taking, something that is both normal to want and possible to achieve, 
+It's so weird to keep half an eye on jelescope, to mostly just check on it and see a bunch of posts with a few likes, then to see one on my timeline later because it inexplicably took off 
+I'm never leaving the house again 
+I'm ashamed bc I get it too 
+yay we're good 
+the stress when you're an international student who just ruined something and you're waiting for your parents to wake up to tell them is off the charts 
+as someone from India, I am weak and natural selection is coming for me 
+we found the next big 126 topic 
+this is literally mad libs 
+oh this perspective comes from complete wilful ignorance I'm memeing 
+as someone who's spent 4 years in Berkeley and like 4 days in other parts of CA: California has 2 regions, the bay and not the bay 
+Hard disagree, which means this is a hot take as advertised, 10/10 
+thoughts on salted caramel? 
+ooh this one is fun, anything I can read about it? I did a ton of reading about automated theorem provers once and then I looked at the code for one and was like nvm 
+Go Bears! 
+bear vs banana slug: who would win 
+aw stop you're making me blush 
+I'm experiencing this on a four year timescale with y'all. What do you mean you're applying to college you're 13 
+I guess this could get worse? 
+Dw I'm happy to keep being dumb to prove him wrong 
+in that i consider many possibilities, and get outplayed anyway 
+I'm gonna guess one of those these is Sandy bc it just sounds like an anglicization of an Indian name somehow 
+yay trains 
+Oh lol that makes more sense 
+Much better, I figured you wouldn't like how \"left\" is north-up centric 
+\"the left coast\" 
+friendship ended with bay area, now san josen francisco is my best friend 
+ah I thought you were in the train, that's better. Tell her I say hi 
+the one thing that was better about summer 2020 
+did it start again 
+This is true, I'm amazed I managed it 7 times 
+why would you do this to her 
+my mother follows me on this platform 
+ah, the Sugandese guy 
+who's joe? 
+and BART is now an interstate railway system 
+I think this makes the Bay Bridge a state border lol 
+that's not fit for twitter 
+o o f 
+lmao what'd they ask 
+I just managed that thing where you close a box without tape just by putting every flap over every other one. This is my greatest achievement this year 
+\"num-pie\" makes the most sense to me because \"numerical python\" 
+wait I read \"best\" as \"bad\" and voted beans oh no 
+why is this so dramatic 
+this is way too niche to be real but i wish there were a ds9 extension in vscode. then I would have everything in one window for *maximum efficiency* (or just a really crowded screen) 
+Oh hey you're back in the bay area wooo 
+Sounds on brand for her too 
+really want this thread to get to 51 
+Ooh this is making me homesick 
+where is dog beach?? I need this in my life 
+Huge Optical Reflector\nhmmm I think there's already a name for an optical reflector? 
+i need help for my venmo addiction 
+- i can kill you in over seven hundred different ways, and that's just with my bare hands 
+found another one! 
+Just after getting off the campus shuttle this morning! 
+It's just, like, reverse psychology 
+I mean that assumption isn't WRONG is it 
+ah yes, a ploy to get 2 followers 
+this sounds like a plan 
+I'm at 158 followers and 329 tweets so doubt I'll succeed at this either 
+noooo but yayyy 
+ah so the challenge is to make posts that naturally drive people away, i see 
+should I temporarily unfollow in solidarity with your mission 
+That's fair yeah I'd be worried at that 
+Also real answer to me is it's entertaining to have a character be that unpredictable and, not unhinged, but maybe only having half a hinge 
+oh I made all my friends mad at me last summer when I watched ATLA for the first time, one episode a day for two months. (Gave me a sense of time during quarantine plus it was too good to let it be over that soon) 
+Really listening to the lyrics of Three Lions and I love that one of the lines is \"thirty years of hurt never stopped me dreaming\". Only the English would put in a line acknowledging that they historically just haven't been very good 
+can't believe you would watch Last Jedi straight after Force Awakens 
+came to twitter and saw this bc my code just broke 
+I think the real issue with this implementation is readability. This isn't very pythonic 
+how did you make me, age 21, somehow feel old 
+Wait explain that last bit 
+maybe = lambda: np.random.choice([True, False]) 
+love how cbse does a whole chapter teaching you the rules for matrix algebra with no linalg intuition (this encodes a transformation, determinant as scale factor, just why we care about any of it). I was so angry at it once I got to college and actually found out 
+chaotic neutral: writing \\vec{E} by hand 
+the fastest and most furious transform in the west 
+I have no memory at all, so that's plausible 
+Why did it take this person 24 points to say \"i voted leave\" 
+but also i didn't see your tweet 
+oh welcome back to twitter 
+what if a swedish man was english 
+keep expecting him to slip up and say \"soccer\" 
+Listening to a football commentator with an American accent (on ESPN) is surreal to say the least 
+read this w the cadence of \"it's time to get good at darts\" 
+astro twitter plays ksp together? 
+What's the verdict, should I get it too 
+lmao I'm not actually that well connected I just took my one opportunity to pretend I am 
+does it make things worse that i do know a jennifer in astro too 
+love getting subtweeted 
+That was more middle school really 
+bougainvillaea, which my keyboard is trying to autocorrect because it's American 
+Hard to imagine how this could get more cursed 
+bottom left quadrant 
+There's a 50/50 chance that's what I mean! 
+this is what Pythagoras killed his followers for doing 
+yeah I do magnetohydrodynamic studies of the Collins vortex 
+ok here's the formula \n(Part of the EM spectrum/something that sounds similar to it) + (white sounding last name) + (vaguely science word) 
+the real move is to reverse this by starting to tweet about astro terms you just made up 
+some sources will also say \"tilt (x)\" and \"tilt (y)\" which is so much better lmao 
+they're complementary, one's up-down and one's left-right! Which is which is the question 
+I know next to nothing about stars and galaxies 
+ao isn't really a main astro topic so dw, that was more for the optics crowd 
+Yeah these are the astronomer words for that - one is up-down and one is left-right, but which is which? 
+I no longer know what either of these words mean. Someone's gonna ask me to tilt my computer screen and it'll send me into an existential crisis 
+I'm multiple years into doing research in adaptive optics, and I've just spent an hour trying to figure out which one's tip and which one's tilt 
+as a California resident who owns a glass Klein bottle this is extremely plausible 
+aa this is so good!!! 
+Somehow got a java nullpointerexception while signing out of my email? Google, it's after 5, debugging hours are over 
+me trying to L1 with six weeks left in the country\n(Kit's getting here on Thursday!) 
+the 2020 version of this replaces the pencil with a tablet stylus 
+bold take 
+Portlamaha sure is something 
+My exact reaction when I got assigned to a college that's \"slightly remote\" and \"doesn't have as much of a social culture\". Like this is perfect for me 
+This is the perfect phrase for the JWST team tweeting about taking the lens cap off, just so everyone knows that's not why it eventually doesn't 
+love the idea that you can summon fashion brands the way you would call out to a cat 
+We should totally just stab someone over this 
+is this a white album reference 
+and then you evolve from anxiety to...whatever this is 
+I just wrecked mine in 8 months lmao this is relatable content 
+I wish it could say it gets less scary as you go but... 
+ok this one doesn't even have a blank line 
+how will i ever choose between these two 
+ah, yes, a merge conflict 
+can't believe I'm about to write that I need to use MATLAB in my project plan. Feeling sick rn 
+Lecture 1 of the next PhysCat offering 
+what's the occasion 
+p sure I did this to you once lol 
+beat you to this punchline! 
+[citation needed] 
+sorry those words do not compute 
+you just can't stand that he's right smh i thought EPs stuck together 
+or even quicker - as a bash alias! add this to your .bashrc/.zshrc:\nalias ts=\"python -c 'import taylorswift as ts; ts.taylorswift()'\" 
+Would love to see graduate fellowship eligibility expanded to non-citizens as well! Research done in the US benefits everyone regardless of where the researcher was born 
+you knew I'd remember it? 
+\"fiddle the figures\", I think 
+do computer scientists publish joke papers on arxiv for april fool's day or are they sad 
+oh how meta/recursive 
+to my students out there who I talk to about good code structure being important: do as I say, not as I do 
+living up to 
+the roof of the berkeley astro building is a strong contender for my favourite place in the world 
+I should order from them today tbh, my lab report isn't gonna let me cook soooo 
+Yes to both! We do have a tuk tuk thai but also there's a michelin starred restaurant I've never tried and have ~2 months to finally go to 
+i know this is a tweet about Dartmouth but i also perfectly identify with it as a Berkeley tweet somehow? 
+however, i can reactivate long-forgotten knowledge and look at OpenRockets! 
+i've been trying to L1 for literally two years but i'm bad at building things with my hands :( 
+we need a hashtag that is not also being used for astrology lmao 
+#AstroTwitter - what's your process when you sit down to write code? SWE (or at least my data structures class) uses design documents, and I'm wondering if we have something similar for the purpose of open-source astro analysis/simulation code - or if we could make it! 
+oh yeah lol i might as well ask it 
+I wanted to ask an astronomy question but wasn't sure of the hashtag to use, so I checked out #astrotwitter only to find it's mostly astrology lol 
+this is \"motorway\" erasure 
+I've heard \"the #\" is a socal thing, I've spent all of a week in socal ever and yet I say it 
+I've said \"I know that I know sin(7pi/6) but don't want to do it\" more times than I care to admit 
+Lol I'd have made it if not for covid (had a seattle internship cancelled) 
+The US is an entirely coastal country, right 
+\"applied\" doesn't specify what i'm gonna apply it to 
+oh lol my bio's misleading i actually do astro research + am trying phd apps this cycle 
+woah i'm the better type of astrophysicist! 
+starting to think that my strategy of picking the ratio of rice and dal based on Vibes may be suboptimal 
+!! Yes I want to find them too 
+love when people denigrate a service that they're using at that exact moment 
+ashvin you're a genius 
+therefore, by the mean value theorem, 
+yeah I can think of, like, four examples and two of those are Aziz Ansari 
+does she know 
+I was running an accelerometer app on my phone, let it fall from one hand to another and noticed it only spiked on impact, and realized I'd invented the dumbest ever test of Einstein's equivalence principle 
+can't believe this tweet was the day before \"you need to be smart to be an astrophysicist\" 
+True, I considered myself part of that category - a year ago I wouldn't have given this email a second thought. It's really only because of the debate around people's park that I've started paying attention to it 
+Yeah I figured it was a mix of the people's park issue, and proving they're necessary in general so they're immune from being defunded in the most left-wing city in America 
+wonder if ucpd is at all motivated to artificially inflate crime stats rn. can't think of a single reason 
+So if there's no weapons, no injuries, no threat of violence, why is the subject \"violent crime\"? And why does it claim to be both an attempted robbery and a robbery within two lines of each other? 
+Same!!! Pure art the whole way through 
+For a second I was second-hand embarrassed that you just directly tagged him, but his account's only 10x bigger than yours and not 1000x... 
+Calvin's way ahead of you 
+I'd love that - I'll catch you in 191 sometime! 
+no it's great this is exactly the insight I was after! 
+oh oops you were starting a thread lol 
+There's lots of individual best practices, but not much advice on high level planning, which I know is something they do in SWE 
+probably 3b1b for me 
+i aspire to create something that one of my fav content creators would call \"cursed\" 
+let them live their dreams 
+isn't the question really \"how small are the wizards\" 
+anna that's so good i love it 
+that sure is a wild sentence 
+is getting me to talk to my friends who understand global politics/history 
+this is why I need an alt 
+wolfram text dump coming your way on dm 
+oh lol of course they're also Wolfram theory of everything truthers, isn't that just the most predictable thing 
+Cambridge emails are on Outlook ew 
+What's so bad about Stanford's system? 
+Go Bears I guess 
+I'm sure this app is better designed than that 
+imagine being a math believer 
+relu is crying in the corner rn 
+I was about to tag you in this lmao but was like \"is it offensive to tell someone they're like MTG\" 
+dropping my phone and writing a paper about it so that SR researchers have something to cite 
+i am simply vibing in thimann rn 
+i think i maxed out the app LOL 
+The \"why are you risking your phone to see 100-year-old science\" spike 
+as an astrophysicist, I am smart enough to break my phone for science 
+told ya 
+but also, valid 
+wait there isn't even any code in this, this is an actually good one 
+wait i just realized this is the inspection paradox striking 
+there's also a selection bias where you're more likely to hear \"I love everything about space\" from the people who love everything about space, and nothing from the rest 
+that's totally valid! Maybe it's because academia's so intense that it encourages, like, \"you have to be maniacal about your love for this to do it\" 
+I kinda feel this! I come at astronomy from a very \"this is a source of cool problems I'd like to solve\" perspective, which I think is valid but often isn't as...intense as some of my friends who just love space for space 
+I do love the print(\"yeet\", ...) tho 
+my soul has been hurt 
+consider yourself appreciated 
+too late 
+I'll leave it up to your opinion 
+as advertised! thank you! 
+no you're amazing at it! 
+nah that'd only happen if *I* gained 200 followers 
+How dare you be entirely correct 
+all my berkeley friends just groaned bc this is like 80% of my personality 
+can I interest you in Julia 
+nooo :( fingers crossed for you! 
+look sometimes you make tweets that are just for yourself 
+taking my lunch break (just ran \"using Plots\" in Julia) 
+white, but the same is true in reverse probably 
+my happiest academic memory was the three weeks in summer 2019 when no one was on campus and i claimed the whiteboard there for the entire time 
+I agree with this person on one thing: there is no need to make math this stupidly frustrating 
+:( if it's any consolation I tried to wake up early to go biking this morning and ended up waking up even later than usual 
+it's us! 
+ew imagine being str*ight 
+pls fund 
+I did that a fair amount today and did most of it, it's starting that's rough 
+I need to figure out a creative set of paths down 
+I totally would! But there's little bits that aren't fully downhill 
+Science is important, but my real accomplishment this summer will be if I can bike all the way down the UCSC campus without ever pedalling 
+oh that'd be recall Guptae wouldn't it. Not as fun 
+hope you win the write in campaign so we can all recall Kavie 
+can i come and just, like, shake my head in the corner from time to time 
+as long as they're not set up like this one: searched \"tom scott oh no\" to get this) 
+this summer's the first time i've been dumb while coding using a lab computer connected to hardware, it's consistently terrifying 
+Is this inspired by recent posts from 
+don't tell me what to do 
+oh this one IS a hot take, when would you say america became a democracy? Voting Rights Act? 
+on a more serious note I can't believe the choice for these people is \"pay for an entire college degree\" vs \"go high up in a plane one time\" 
+hey do you wanna invest in my new startup Chad Aerospace 
+the virgin galactic vs the chad [the rest of this tweet is on hold pending the creation of a good private space company] 
+anyone wanna send me one of those helmet webcams for, uh, science 
+Think I found the optimal route! I had to brake for a car in front of me unfortunately so I had to pedal a couple times today, but it's doable! 
+go on the roof of Campbell! it's so good there! 
+i can't object to that but I'm not happy about it 
+ok cancelling you for that pluralization of terf 
+I've actually only ever heard \"dudes rock\" said ironically 
+or India 
+Most days I'd push back on this and defend Julia, but today I'm facing 
+the new update is so good! I used to find package imports with it really difficult and now they're so nice 
+love Julia rn but I can't wait to use it in a few years when these kinds of things are quicker fixes/don't come up at all 
+ok this was a meme but I just spent 45 minutes on something in Plots not building 
+but also I would absolutely think \"she's made of fluff. she'll never be enough\" was just one of your regular tweets 
+== in a tweet? damn ai really is taking over 
+I just met (had a meal with and talked to in depth) 14 people over 5 events in 2 days. Having introvert impostor syndrome 
+lmao we accidentally synchronized our twitter breaks 
+just be unhinged! it's great 
+counterpoint: \"a tensor is something that transforms like a tensor\" is a great meme 
+ahh I'm leaving soon too and already know I'm gonna miss it so much! 
+whoops let's just call that even 
+smh notice when you're being subtweeted 
+haven't really seen anyone tweeting about the beach that makes you old today. feels like an untapped source of comedy 
+I'd like to imagine you just know that list off the top of your head for the other 48 states too 
+100% of the people I know in Michigan work for the car industry, and I'm sure he would back me up on this! 
+you've fully deprofessionalized my account at this point 
+the in between is just being online about as much as you are so not even needing notifications 
+where's \"I have no clue but just wanna be included\" 
+that'd do it 
+wait we have cool parties?? no one ever told me... 
+hi yes i want to do a phd in computational paleontology 
+Borrowed a reference book from my advisor today to help with the script! 
+this just in: the New York Times doesn't know what \"interstellar\" means 
+Yes I do want to check out Rust! I've heard good things 
+Oh that's great, thank you! 
+The simulation and the book look so cool! Do issues ever come up in Javascript with not having numerical utilities? Eg all the numpy/scipy functions? 
+Ooh good to know, thanks! 
+Yup I think I'm good w pandas! My objective here is more something that'd be fun to learn, or that'd give me more insight into the low level 
+not currently, but it could happen - I figure python/Julia/general big project experience would cover me for that? 
+oo great idea! I had a class a couple years ago that used a little SQL but I don't really know it now so I should totally do that! 
+ok you were memeing but making a website is actually a key science thing so ty 
+I'll look into it! 
+Julia covers the MATLAB use cases and is open source! Have vaguely heard of Haskell but don't know a lot about it, are there any advantages to functional languages for researchy tasks? 
+Fortran seems scary though which is why I've got Julia already 
+Has anyone used a programming language other than Python, Julia, or C++ that they'd recommend for science? Thinking of learning one for fun/programming skill/weird science edge cases, and am not sure how to pick 
+it's called wingmanning anna 
+because you just tweeted about it: calculus of variations 
+what helps me is to write, like, one line and say I'll fix the *rest* later! It's easier to get back into it once you've got a starting point already done for you 
+you tweet it and trust he'll be perpetually online 
+I saw that name on a news website and was immediately like \"lmao some journalist heard a TF bit and thought it was real\" 
+I've wanted to get into hardware for a while! I've found it a bit harder to understand than software though and haven't been able to commit to getting myself over the hump, but I'm hoping to! 
+not quite at grad school yet but !!! 
+you're great at conversation! 
+I've used it for classes and like it - not sure how it'd scale up for big projects though? I feel like it'd be nice to have a bit more structure/control, but maybe it provides that with functionality I haven't come across yet! 
+I will happily evangelize Julia to anyone who'll listen! Give it a shot, it borrows a lot of syntax from both MATLAB and Python so should be familiar if you've used those 
+I've been using Julia for about a year now and I'm still finding new features! Thanks for sharing! 
+Of course - just wondering what tools might be useful to have in the box for later! 
+Yeah I've heard horror stories from friends, hoping Python/Julia cover me for those uses 
+Fortran is the #1 answer on this thread! 
+I've heard of ROOT, understood it as being mostly for particle physics? 
+This looks so cool, thanks for sharing! 
+I've used MATLAB for classes before! Switched over to Julia for all of its use cases pretty much though, as it's faster and open-source 
+I saw some demos elsewhere in the replies of Javascript in-browser simulations, that seems really fun! 
+I didn't know there was a difference between them, what is it exactly? 
+I like this idea! I've always sort of made up whatever I do in the shell/glued it together with many stackoverflow threads, so knowing what's actually going on sounds great! 
+I'm looking for something other than those three - I know Python and Julia already and am aware of C++ as another natural choice. Just wondering what else might be fun and useful to pick up! 
+Same question for homoiconicity, how fundamental is it/where would you say it comes up? 
+Is the idea of Haskell mostly pedagogical, i.e. just because it's worth seeing/working in a purely-functional language once, or are there tasks that it's better suited to? (I'm interested in looking into it either way! Just curious) 
+Yes it's pretty common! Helps you make a record of your academic work that isn't dependent on your name, affiliation, etc staying the same over time 
+Wait how do you trick anyone with this twice? 
+this barely even qualifies as a joke i'm tired 
+it stands for cdont tread on me 
+And we've got the 3000 IQ play of just never leaving school! Perfect 
+I once got a coffee cup back with \"Aam\" written on it and was just like...how even 
+Wait that starts at our age?? Scared now 
+The one annoyance is glasses fogging up but I'll still do it ofc 
+excuse you git i'll make my commit messages as long as i like 
+it's even missing an apostrophe. Truly no demographic left unappalled 
+oh NO. this is terrible, which I guess here means excellent 
+criminally underrated I agree 
+ah yes, a zoomer 
+fashionable olive gamer 
+fine I'll get out of bed 
+can't believe you don't respect my mom :( 
+how dare you be entirely accurate 
+wait ishaan if you're mentally unstable, what are the rest of us?? 
+Does having Zoom running at the same time as your code slow it down, or should I be worried that everything's broken for my lecture tonight? 
+I feel attacked 
+why aren't we both asleep rn 
+I call this one \"Squid in Abstract\" 
+I feel this :( I honestly think it's so person-specific that it's hard/impossible to say what we're \"missing\" - decent chance it's absolutely nothing. (I don't know if that's better or worse, but at the very least not worth blaming ourselves over) 
+] resolve in Julia is just me telling it \"make it make sense\" 
+I'm so honored 
+Does anyone know of a guide to making effective plots for physics/any academia (posters and papers)? Beyond just syntax: choosing what to plot, what kind of plot to make based on data, how to effectively communicate your point, etc. 
+but also ouch i'm sorry 
+Tbh this gives me hope that the machines have yet to take over 
+I buy it, time to watch at 0.5x to be done in 45 mins 
+I have no idea how, but a 1.5 hour lecture at 2x always ends up taking 3 hours to watch 
+i knew this would be the image as soon as I saw the caption 
+Wow you're just straight up publicly shaming your group huh 
+big fan of this look 
+I don't hear it a lot on the west coast, but it's def a thing/fine to say! I hear \"no problem\" more as a response to \"thank you\" 
+lol sorry I've just been in berkeley way too long. the rest of the world? what's that? 
+10/10 choice 
+THAT'S MEZZO I WOULD RECOGNIZE THAT ANYWHERE 
+i want to say something appreciating this but I know how you'll respond to it 
+*expectation, not density! 
+Redoing it from scratch with that same idea, I got a density of 2D/pi actually! If that's also wrong chalk it up to doing math in transit 
+I think it's an arcsine(0, D) which would give an expectation of D/2, but am on my phone so will try the change of vars/expectation integral later! Although I'm skeptical of a numerical answer that's that simple... 
+WLOG choose the first point (say 6 on a clock), then the randomness comes down to a choice of the angle made by the chord and the tangent line to the first point. That's theta ~ U[0, pi] and the length should be D sin theta, so an arcsine distribution? 
+My Bluetooth earphones broke recently and I'm worried about doing this to someone else so now I simply suffer 
+Yeah a lot more interesting information than I was really expecting! It became too much for me to keep up with pretty fast 
+you've got what now 
+do it for me, whose l1 is gonna have to stay in storage for 8 months before I fly it :( 
+live your dreams 
+Coincidentally \"old man yells at cloud\" is also basically what AO is 
+every time I hear about a cat doing something like this I remember catsitting over summer 2020 and sending this text 
+My hs uniform included a white shirt and I def had at least one that was closer to pink 
++1 I do this in India and not here 
+what's wrong with butter?? As a proud half-Punjabi I say butter goes on absolutely everything 
+having never seen this show before I'm incredibly entertained by this running commentary 
+hopefully mine won't be delayed 14 years 
+this tweet was made purely for 
+flying a mini jwst as an L1 payload just so that some version of it ever gets off the ground 
+damn hope you see it soon 😔😔😔 
+have you seen anything yet 
+(correctly, but still) 
+you underestimate me anna 
+For research I use the very general term \"scientific computing\", but that covers both data-driven science and more \"pure\" simulation - I'd also like a term that specifies non-simulation scicomp! 
+honey bad?? this should be in your hot takes thread smh 
+your hair looks great 
+just stare at her and trust that she'll wanna fill the silence 
+Huh good to know 
+I'm an expert in watching a 15m video and feeling like a pro at analyzing chess positions, and then switching over to lichess puzzles and immediately hanging my queen 
+can't believe that is literally true 
+I agree with this - I've tried to learn category theory as an abstract idea before and never really followed it, hoping that when I come at it with a better foundation/more possible concrete examples, I'll understand more of it! 
+if you got enough of them you could even put them all together chronologically, in a line sorted by time. that'd be sick 
+join the google photos! 
+Oh I hadn't read this in a while, \"remove speeding laws but only for bikes\" is incredible 
+where's your recall election platform again? Trying to promote your campaign 
+Wild, good to know 
+so who won 
+observing with James himself\n\npc: 
+*stares in universal healthcare* 
+I was shocked when I found out highway 1, less than an hour out from the Bay, had no service all the way down! Even more shocked when I found my car wouldn't start bc it needed data... 
+this is becoming the catchphrase! 
+this is not an in-front-of-a-dome one but that'll come soon! 
+still in the car lol but here's one I dug up from 2017 (I was such a baby) 
+oo I'm gonna have one of these in a few hours 👀 
+ucpd really said \"gaslight gatekeep girlboss\" 
+for context 
+I think this one's an Anna original! Great minds think alike 
+it's just missing the \"laminar\" 
+and a good lab system calls for quick code! (future phd advisors please note i love writing good quality code) 
+the really viral write-in campaign 
+Nice! I was lucky enough to be able to visit him just before the pandemic - he was thrilled to meet a \"real mathematician\" (I was fumbling through a manifolds class at the time). Don't have my bottle to hand, but I do have my sticker! 
+is that a Cliff Stoll original Klein bottle on the top shelf?? 
+\"never check message horses\" sounds like a mnemonic for something 
+on the other hand, simulations can make you miserable 24/7! 
+The curse of working with real life lab equipment is somehow you can only get it working the way you want to when it's 4:30pm on a Friday 
+wait so what does he think \"you'll see 1984 won't be like 1984\" means 
+at least we've still got 
+yeah this about checks out, except irl you're not like MEAN mean just fun mean 
+tbh \"gives other people a conversation starter\" would be a con for me 
+Oh yeah do it out of the power trip of being able to reject them for a change 
+yeah honestly you're probably better off... I'm 50/50 on even reapplying there personally 
+Yeah but I care 
+does this place begin with a c 
+can't believe you would cancel Tatooine like this 
+there's Tom Scott's one that you've probably seen before - 
+similar to question - what first got you interested in space and what kept you motivated to keep studying it? 
+I could've picked something simpler like category theory 
+Fourier optics is so much more complicated than I remember why did I choose to do a video on this 
+the tweet doesn't quite reflect the headline here - generally I'm seeing a sudden shift from \"it's not really happening\" to \"it's happening and there's nothing we can do\" which is disconcerting 
+the accent is wild (veers drastically from American style Rs to British Ts to the odd word you would only say in Indian English) but it's nice overall! 
+huh i don't hate the sound of my own voice 
+only somewhat related, but I'll never pass up an opportunity to quote Lucille Bluth 
+woah when'd you go to minnesota 
+Is that a trans flag zebra crossing 
+guy who loves orange juice in cereal but he's also the personified Subway from Community so he can't vote for that one 
+No good reason, just couldn't get to sleep and not sure why 
+True! (That's just because it's past 2am..) 
+\"heaten godchild\" would be a fun addition to my bio 
+yes but *despite* this not because of it 
+what really is the difference when you get down to it 
+know your place 
+Wait that sounds so cool! How does that work? Do you have a combined thesis that works for both, or is it like doing two PhDs at once? 
+I did not in fact have to curse my hubris in this case! That's happening now 
+Sometimes I do, but making them *overly* descriptive is good fun 
+tbh since you're named \"worm food\", this person actually upgraded you 
+git appreciation post, I just recovered from none of my code working in a meeting by rolling back to last friday's version 
+no the bit is that I use julia and for some reason Ishaan decided that was Italian 
+love that liked this without even knowing the bit 
+yeah smh my culture's being erased 
+that doesn't even 
+this is a new one, what IS Steve Jobs 
+no dw i already know you're not i meant the others 
+are the Americans ok 
+Oh nvm saw the next draft 
+I'm desperate to know what Desantis is 
+I fixed this 
+This is so nice to look at 
+I forgot about the chip! That was weird 
+I'd definitely remember to carry that more often than I remembered my school ID card 
+Makes sense 
+how come recreational pot &gt; medical pot? 
+like, there's stuff we can do, but the NYT doesn't seem to want to tell us that? 
+sub tweet 
+Thanks to covid I've been in California continuously for 2 years, which is longer than anywhere else I've ever been, so that's gotta count for something 
+I voted CA and then realized I just legitimately forgot that I'm not from here lmao 
+It's been so much fun working with Pedro and all the other Lamat fellows this summer! Thanks so much to and for making all this possible! 
+\"no known predators\"\nzarina\n\"one known predator\" 
+ye i gotchu 
+and I are ordering a banana slug on ubereats y'all want anything 
+Oh interesting, so why does it matter whether these amendments pass or fail then? 
+wait how many cops do we have now 
+ok this got me reading the rest of the thread and this one is terrifying 
+yeah us meeting is, like, the distant past now 
+really tweeting like I'm studying to get back into the UK huh 
+this is outrageous/this is contagious 
+ty ty 
+i'd be offended but i pretty much saw this coming 
+love when i use python to systematically destroy each individual tree in the amazon 
+I just saw a pickup truck with no fewer than five \"recall Gavin Newsom\" stickers\", one of which is a flag to complement the US flag. This is somehow in Santa Cruz 
+I can't believe I forgot about MTs 
+or _italics_ I'm guessing? 
+smh twitter doesn't do backticks 
+this is like the reverse of `rm -rf /` 
+drop the derivation kyle 
+pulsars being in danger wasn't enough for you huh? you just had to strike absolute gold twice in one day 
+:o must've missed that 
+DRAG HIM 
+getting a phd in managing paths to load and save data 
+I've only been there 10 weeks but same 
+this took me a minute but now I'm dying lmaoooo 
+I think Overleaf has a GitHub linkup too so I bet you could have it auto-commit and push all your figures 
+Oo cool I should do that 
+Some of that is pandemic vs a mostly in-person summer just now, but it's crazy how much framing the motivation did for me 
+I feel this so much in science! I've done so much better this summer when I've been like \"I really want to get this thing working\" than last summer when I was like \"oh no I'm falling behind and won't be done in time for grad apps\" 
+no see physics is the only search for truth and therefore no other academic fields exist or are valid and- *i am killed by a chemist who heard astronomers call carbon a metal* 
+Oo what does this do? Is it like a tex compile function 
+\"thinking of\" 
+I've seen that measuring CMB anisotropies has been really important recently, but what do they tell us? ie how would a cosmologist go from that information to some inference about large scale structure, history, etc? 
+wait you have an alt? 
+i too am a hoe for functionals 
+conflating the data not being what they want w a problem with the metric? 
+i may not have gotten into MIT 
+Rip I think that puts me outside anyway 
+Nvm I don't have an iPhone :( 
+Wait how big are areas 
+it's 8 days for me! This feels too soon 
+ah yes i loved studying the L^1 seminorm in high school calculus 
+be the best possible quarantine companion! 
+Any issues/enhancements rn? 
+!!! I've wanted this for ages! 
+we went from good memes to 
+isn't that just a big snack 
+what is lunch 
+lol it's ok i feel good about never having to do them again now 
+I'll really miss the bay! Northwest SF - the red thing in the sky is not the sun but the Golden Gate Bridge! 
+wow, the worm food friendship test for men\n\n[fr sorry this is happening tho :( ] 
+I remembered I'm not american this time! 
+stop him 
+ew overloading variables 
+how do I miss somewhere I just left 4 days ago 
+I spent a whole day trying to get github ssh keys working on my lab's remote computer! Glad this isn't just me 
+can't believe you would do this just after you hit 1k 
+I don't know Spanish sadly :( 
+can YOU tell me which line has the error? 
+Debugging update: I'm talking to my laptop like I'm Dora the Explorer 
+imagine if this hits the newsletter 
+I've got one from a student org I was a part of, I can send it to you! 
+it's already gone sadly 
+big fan of my friends liking this tweet like \"yeah we always knew where we were on your priority list* 
+wonder who the other person is 
+You mean your last bit of free time till 2026? 
+Selling my bike feels more emotional than saying goodbye to any of my friends did 
+damn do you know any 
+sounds like it! 
+!!!! let's GO 
+lmao I do not envy you 
+My take is the climate problem is big and multifaceted, and not all of us are going to help by creating better solar cells. Solving climate needs good scicomm so we can get everyone to buy into solutions, and astro being a \"gateway science\" means we excel at that! 
+how dare you be, like, 40% accurate to me 
+I could've written this exact thread - right down to \"trying to graduate on time with a double major\". 0/10 in astro PhDs here, and I totally agree that it's really hard not to take personally 
+binging Tom Scott's entire channel has lasted me a while 
+james webb                  personal rocketry\n                        🤝\n     taking way too long to reach L2 
+I'm a month from graduating college and I don't think I've come of age yet... 
+anecdotally I've heard yes - I've been told by a student who's gone from the masters I'm heading into to an astro PhD that it can take a year off coursework! 
+Some European PhDs will take US bachelors actually! In the UK at least, bachelors degrees are 3 years w/ usually no research, so their bachelors + masters = a US bachelor 
+the one I'm skeptical of here is peanut butter and hot sauce 
+i have definitely never paired peanut butter and eggs 
+if you don't count as space twitter, no one does 
+Congratulations! I'll be attending the MASt in Applied Mathematics preparing for astrophysics PhDs, so I'll see you there! 
+oh look it's 
+where's the option for those of us who've been here from the start :( 
+eat the rich, where rich starts at $1 above the sf median income 
+good thing he didn't go into a career that involves a lot of formal and hard math then! 
+hope They see this 
+this is only the beginning, watch as \"submissive and breedable\" makes its way into Emily in Paris S2 
+keep an eye on your IP smh 
+nah I just need more time I think but ty! 
+my parents follow me on here 
+damn you ratiod yourself 
+KAmala, VIce president 
+to clarify: 3blue1brown is running a contest for math explainer content that i was gonna submit a video to lol 
+The 3b1b video isn't happening :( I'll still make it at some point, just won't be able to in time - had too much research stuff come up 
+Planning on trying this out tonight! 
+hey kansas stole my 
+I'm sure everyone in the Lamat office would be thrilled though :) 
+I just saw an actual recall ballot and tbh if you'd officially declared you'd get, like, thousands of votes lmao 
+oh no anna are you trying to straightpost 
+Yay good luck!!! 
+nah it's functional programming scope rules, local scope first 
+Happens to all of us 
+wait this just made me realize i have no idea why it's true 
+i'll freely admit that was bait tbh 
+something something central limit theorem 
+I try not to talk TOO much about Julia being the superior language, but sometimes you just can't not 
+Me always 
+at some point don't the \"unusually high call volumes\" become usual 
+damn I was really hoping you'd come in here with the anti joke of \"I'm Sanjana\" 
+love getting my (2^32-1)th vaccine 
+You should try it starting from Emeryville! There is an actual path but only up to yerba buena annoyingly - still nice views and nice ride back down 
+If you're heading up to Berkeley, you came across my least favorite part about biking in the bay area: the bay bridge only having HALF a bike path 
+time for cinnamon to be unleashed? 
+I guess I'm being a bit harsh on it - it's not that bad, it's just no total eclipse 
+Golden Bear Orientation! It's the week of events Cal puts on to introduce you to campus/show you around 
+Yeah I guess we were the year to find out that GBO is overrated 
+And I was up at LHS, so gorgeous setting with zero visibility 
+No I remember it super clearly! One of my friends skipped two days of GBO to go to Oregon to go see it and I was all :O that's illegal 
+Wanting better visibility on that day is my adaptive optics origin story 
+It was my college orientation week! We got the best view of...the clouds 
+drive into berkeley 
+I have hopefully fled the land of tech bros but will absolutely still promote the cause 
+act of service 
+I just flew in today! I have no idea what I'm doing yet either 
+Okay this is more like 15 minutes, not bad but I'm still kinda mad 
+love when I randomly get put in an hour long queue in a country where I'm a citizen 
+he post on my timeline and it feel george 
+yeah I was too lazy to screenshot so that's the afternoon sf sun doing its thing 
+I googled it and was like \"I can't believe this is reality\" 
+about to have a one-minute-long existential crisis 
+I guess it still feels a bit too much like symbol-pushing though - I'd want a geometric reason to complement this one 
+That is pretty algebraically neat! Sort of the extension of (a+b)^2 = a^2 + b^2 + 2ab 
+this looks like an album cover for, like, Russian indie rap 
+This is just half of Inside isn't it 
+This was one of the great culture shocks coming the other direction 
+euler's identity is probably a pretty quick route to the algebra yeah but that doesn't feel super satisfying yknow 
+i guess I'd like something more geometric? like an argument based on sin = opp/hyp etc 
+I've known it for years how have I never questioned it 
+Lmk if you find out, WarnMe is the one thing that Google Voice is doing for me rn 
+truly no choice 
+ahh that's the one bay area thing I never got around to, have fun!!! 
+oh hey Rahul, neat 
+I'm down tbh 
+It's open! 
+Puzzle wine - solve to open! I sent this to some friends and currently \"break it\" is winning over actual solving suggestions 
+tag yourself I'm \"high degree of innovativeness\" 
+but also I assume this is a number of users thing and Julia won't be there for a few years 
+hush don't attack me like this 
+Like, who ever thought that was a thing 
+Sure, but why is \"JavaScript supremacy is dead\" the headline lmao 
+no way 
+Wait all I can find is performance reviews, what are both the meanings you're seeing 
+I had this exact experience the first 24h I was looking after a cat! He still hated me so I figured he'd run off - found out he hadn't when his food dish was emptied overnight, then middle of the next day I found him just casually staring back at me from my closet 
+highest prime factor &gt;5 and you're into blackjack 
+highest prime factor &gt;5? 
+This is going to be how I identify morning on the west coast isn't it 
+gm anna! Good luck at work! 
+in a part of london 100% of births are foreign born (my house) 
+Gonna report this to twitter for lying smh 
+Anna going for the featherless biped demographic 
+Geronimo the alpaca on speed 
+Saw this on here earlier today 
+wait also a sincere one: what do you think is an underrated factor in choosing PhD programs to apply to/attend 
+what two adjectives beginning with s and b respectively would you use to describe yourself 
+Curricula help but don't give all the info - you wouldn't be able to find out EP flexibility via the website, because I got most of my leeway from additional petitions 
+good thing I'm terminally online!! 
+for example: def recommend Berkeley EP bc it's super flexible and also easier to get into, you can always add an EECS minor/major or even switch when you're here/just take all the classes you want from EECS as an EP 
+okay my take is ask people at as many places as you can on your list (1) how easy to get into (2) how cross disciplinary all the majors you're considering are 
+huh I learned a new word 
+Damn can't believe you have straight men followers 
+1 4 1 a 
+my school in India just had us start and end an hour later in the winter, no idea why the rest of the world can't just do that 
+what are the candidates 
+as a Julia evangelist I am here for the python ban, but the telescope ban kills most things I would use Julia for 🤔 
+at what point in your academic career do you become confident that your email phrasing isn't terrible 
+(this is bait for anna) 
+paradox alert 
+damn it 
+Checks out 
+Those may not be high priorities for you tho, you could probably do that through family numbers that are still in the US 
+Yeah but then you can't keep your number for stuff like bank verification (gets really annoying internationally) + you can't have WhatsApp on your local number without a second device 
+get Google Voice! Keeps your number and lets you call and text on it indefinitely for a one time $20 fee 
+the one thing i internalized from my manifolds class was \"i can't believe it's actually called that\" 
+gonna interpret this as being pro trans rights in academia 
+that's totally it! 
+What's the procedural issue? 
+like a light green idk why 
+or being destroyed, depends on your point of view 
+ah the berkeley cs freshmen have arrived 
+airbears2 is...not high on the list of things I miss about berkeley 
+Ooo what are you teaching is it 7A? 
+I was in the shower! 
+I had a friend once who never swore except for one time when she REALLY wanted emphasis. It's been six years and I haven't forgotten it 
+update: got pdf dark mode up for the full Coder Aesthetic(TM) even when I'm just writing 
+just finally linked Overleaf and Github, meaning I can officially do absolutely everything in vscode. This feels so powerful 
+fine, I'll pay the $500k 
+I think it's a tragedy when one of these doesn't land and am happy to take an L once in a while to avoid that 
+wow a new one! 
+What a ratio 
+(to the tune of video killed the radio star) 
+damn you didn't need to go so hard 
+Are you allowed to share course content? I wanna see these examples 
+ah, Alexander Hamiltoad 
+You're on private anyway dw 
+woooo congrats!!! Who was the senior I'll fight him 
+also seems like a good time to plug my own class, 
+this is v similar and cool to check out! A lot of research is dealing w this stuff and it's rarely taught in a structured manner 
+grad schools pls accept me in part to do this 
+I love the 3blue1brown on this that I linked separately here 
+tldr is it's basically the property of the Fourier transform where if you stretch in time you contract in frequency or vice versa! For example: closer to a sinusoid (wide in time) you are, the closer to just a single peak in frequency 
+also obligatory relevant 3b1b 
+I first learned it in a signal processing class! Helped me so much when I got to it in QM, it felt familiar and intuitive there 
+How did I never know you could do f' for autodiff this is life changing 
+Idk I'm 3-4 years into this and still make up all my optics/signals knowledge lol 
+Yeah fourier intensity would probably speak more to sinusoid type trends in the original image which aren't really present here I guess 
+But no this is correct, surprisingly 
+Yeah I was surprised by that, apparently phase matters more than magnitude here. Something something Fourier duality 
+Saw this in a paper and decided to try it for myself - take two images, Fourier transform them, swap their phases, Fourier transform back! A quick way to see how important phase retrieval is 
+wait I thought we were Spitter 
+As an astrophysicist didn't you unfollow the periodic table except for hydrogen and helium already anyway 
+why is updating pip the most common thing i have to do with pip 
+Hi I went to middle/high school in India if that's close to what you mean! High school is when I got interested in astro careers so might count for something 
+that is a perfectly timed laugh 
+Hi so I stretched the def of \"tonight\" a bit but I really like it! Could you open DMs/lmk how else to contact you for a couple quick comments if you're open to that? 
+Left my room prompted by this, and she goes \"all art is not reflective of life but is merely inspired by life\". Okay so am I making breakfast or not 
+Also not a teenager any more, not that that helps my case much 
+Oo ok let them(?) know it was excellent 
+yeah can i get a uhhhh natural stone 
+In between Berkeley and Cambridge rn! 
+Gendered clothing norms are temporary but deals are forever 
+I'm assuming they have a good selection of men's stuff too but tbh idec if they don't 
+Where even is this. are you telling me I could've gotten a whole new wardrobe for like $60 within like half an hour of where I lived for 4 years 
+I legitimately laughed out loud 
+awww ❤️ 
+second circle?? I must step up my game 
+but also it took a few thousand lines of code to get those files so your point's valid 
+Okay that was an scp, it was just a ton of file names as they were being copied 
+Am I being subtweeted 
+Nooo tragic 
+nice! Three things for 24 sounds even better to me tbh 
+I entered the pandemic with only one pair and was constantly terrified of this 
+11 is so good for that 
+also if I know anyone with Julia experience, lmk if you know how to get Pluto -&gt; HTML posts loading faster! This is 20MB and it shows lol 
+I expanded this into a little blog post/article thing! 
+I had good intuition for it at one point, will try and rediscover it and get back to you 
+Bio update pls 
+I don't even know what I meant 
+(ive had a bit of wine) 
+paper day is stored in the balls 
+Appropriate for Newton then! (As rumor has it, at least) 
+Oo I just noticed the sleeves this looks kinda indian! Like someone took a bit of a sari or something and upcycled it into its own top, I'm a fan 
+this is the thrift acquisition right 
+v clear language and diagrams, it's cool 
+fair enough, it's actually surprisingly accessible to modern day readers 
+I like this more than Bennett's Optics for sure 
+Picked up a copy of the oldest optics reference book there is at Cambridge! 
+Ah I was fully expecting some variation on \"1312 my balls\" but this is even better 
+Wait what's 1312 
+Hmm if you're going to keep one in person event why make it the one where everyone has to unmask? 
+Is the lunch outdoors? 
+okay go bears but have they SEEN Evans. There's no way. Forbes must be green-colorblind 
+idk I'm here from anna 
+this is true, I'm def better off, but also smh I've never both wanted and not wanted to be in a club more 
+wait you guys are getting spam in twitter DMs? :( 
+see the thread above, there wasn't one - we adopted the Portuguese word, but kept the old Sanskrit word for a generic root vegetable as the word for \"potato\" 
+it's really not 
+pranshu i don't think that's how etymology works 
+yeah but if that were dominant we'd have a Persian word for tomato too, and we don't 
+but why did the Persian word stick and not the Portuguese one 
+says to tag 
+I got tagged in this on Facebook, and I can't actually figure out why. As far as I can tell, potatoes and tomatoes were both brought over to India by Portuguese traders in the 16th-17th century, but \"tamatar\" got adopted as a loan word whereas \"aloo\" came from...where? 
+RTing so it gets picked up by the academic chatter account #AcademicTwitter #AcademicChatter 
+I've spent four years in Berkeley thinking exactly this, but I was always too afraid to say it 
+I had my share of that too - he was just getting creative with it this one time 
+cat butthole in my camera the instant i joined a meeting 
+you'd appreciate 
+Can't believe you're calling me out like this 
+it's the Dora the Explorer effect 
+And when we're there, we'll have picked up the skills we need to be really good at our part of it. Along with research work, that's what motivates me to get really good at teaching now - this is training for the dream of being able to connect with millions and help or save lives. 
+So we may decide to more directly work on these problems later, either in our careers or on our own time - like all the mechanical engineers and 3D printing hobbyists who designed and built ventilators and PPE in the early stages of COVID! 
+But as said above we're not personally culpable, and solutions will only come from all of us bringing different skills to the table! Astronomers incidentally acquire tons of relevant expertise (fluids, atmospheres, general simulations/working with data and instruments) 
+I'm in the Bay Area and we had two days of completely red skies and 200+ AQI due to the fires last year - I was in the middle of an online research meeting, and after it was over I was overwhelmed with the idea that \"the sky is on fire and all I'm doing is looking at stars??\" 
+I know this is a joke but it's legit one of my fav textbooks I've ever had for a class, has exactly what you need and is super clear 
+I know this is a meme but: stuff like organizing paths and data (eg timestamping), writing code for reproducibility, commenting, could probably fall under this! And having just spent the morning scouring a codebase for accidental bad file deletions, I'd call that pretty essential 
+Error messages are fun sometimes 
+Also when. I'd love to imagine it's either, like, sophomore year/first time running a kitchen, or last week 
+That's so tragic why did he live like that 
+I actually had this! I first got the nice clicky switch, then got a case soon after with the actual switch so my clicky one didn't do anything but felt cool 
+The trial and crucifixion were just nat 1s on persuasion change my mind 
+so true 
+oo wanna share the story? 
+something something monte carlo 
+No wonder the \"infinite_cards\" project only made it 0.0% of the way through 
+Oo learned a new word 
+Wait what's his ideology beyond \"forests good\" 
+I always think \"SF ice cream sandwich pronouns\" tbh 
+oh wow I have been overtaken 
+as an early career astronomer it's a little scary to see a bunch of replies saying this is relatable 
+I'm aspiring to be a Julia shitposter I just don't know how 
+Wait you're telling me I've been seeing non-horny Anna up to this point? 
+I just used this yesterday! V cool 
+Honestly I'm intruding on her territory here, I stayed off it for years 
+Also you weren't supposed to find out that that's how I packed 
+we're supposed to take different halves of the app! I'm not doing education policy here am i 
+I kinda just threw together everything I could fit into two suitcases and it's been fine so far tbh 
+I was reminded of this for some reason 
+Jk it's experimental I'll be in hell for months 
+Pray for mine to be similarly short lmao 
+Woah that was quick 
+Brb auditioning for UC and then coauthoring a paper w you 
+And I'm proud to say it! 
+you can Fourier transform a crystal 
+I mean the whole premise is dumb but even if you accept it, 22 = too late to be married is some...outdated thinking to say the least 
+1998 is way too late for this range to end lmao 
+aw sad bc i'm fine w my display name, but still cool! 
+oh wait it's display name not this thing? 
+WAIT HOW 
+Yay it's so good! Can't recommend enough 
+doesn't that mean I'm more likely to understand what's up with Neville 
+yeah, feels terrifyingly close though 
+tang strikes me as, like, the first thing that should go in person right 
+excellent choice 
+That's much nicer than any of the reasons I've ever cried in downtown berkeley 
+I read this yesterday and am now very apprehensive about ever going back 
+Love to live in 1958 
+It's a rough day for sure :( I especially can't get the threat to visa status out of my mind - it was terrifying when the Trump admin threatened intl student deportations for only a couple weeks, I can't imagine having it hang over your head from your supervisor all the time 
+nah too crazy, let's just keep threatening to deport our international students instead, that sounds easier 
+also love that some of them have or are on track to get incredible lifelong job security! 
+i KNEW that wasn't all photoshop 
+This person offered me what would've been my second ever undergrad research position, and I might've taken it if I hadn't been warned by a friend. So sorry to hear all this, but also terrified as I imagine what would have happened... 
+I'm so confused about whether you actually live with tal or if it's just an extended bit 
+The Neolib slack 
+Ms. Food was my mother, call me Worm 
+Forgetting how much a standard unit of caffeine is, like with alcohol 
+Smh I respect time zones and will be waiting a further 21 minutes 
+woah 128K likes 
+ah so cal losing to stanford 9 years in a row was a win actually 
+\"unvaxxed are the new domestic terrorists\" accidentally based 
+totally excellent radiant frogs 
+me with my ~200 unique followers 
+I had reverse jet lag too! It's kinda fun, I like early mornings here 
+okay but my question is who 
+fair, this is the problem with letting bits take on a life of their own 
+Yes the alphabet goes LGBTQIACDEF... because in this household we speak with pride 
+astonished at how in 2021 men online are just learning about the concept of lesbianism. it's the first letter! 
+gm anna i see it's just a normal day 
+(uk joke pls ignore) 
+wow the supermarket himself! 
+I used to live in a house with a ~15ft hedge of holly (spiky, hurts) all around the front, made me feel pretty secure tbh 
+i'm seeing this at 1am and it definitely feels like 1am-posting 
+Healthcare in general, or yours? 
+Rip what's up 
+This is like the science version of the \"how old is x\" meme 
+yeah, worse 
+numpy be like 
+Rip are there ducks there 
+you're up 
+I'm def not a fan of feeling like I always have to be doing n+1 things, which I think is pretty common in research and is how I've kinda always felt 
+i think the joke in that case was the context in which you were gonna yell out \"trans rights bitch\" tho? idk who remembers 
+the nickname shown for is an amalgam of like five different jokes that neither of us remembers now 
+scenes from the writing factory 
+yeah I've been reading this and thinking, aren't ultrasounds usually less invasive? 
+This sounds like the worst thing I've ever heard wow\n(also what's সেলুকস? i'm not great at reading Bangla rn!) 
+oh my god blackmail works 
+ah another classic! 
+gonna take a wild guess and say you're taking 61c rn 
+hell yea 👀 
+so true 
+how bout me 
+as someone who is also British and has spent time in America: solidarity, but also this is entirely fair 
+ah, the Cat Activated Eyes 
+need another MacKenzie Scott moment 
+smh you didn't even leave enough time for me to get in a \"don't tell me what to do\" 
+I just sent the news to my friends w the caption \"love is dead :(\" so glad someone else understands 
+this reads like a dril tweet 
+wait the second half of that is already the No U-Turn Sampler 
+no no no i can't do this a second time 
+It's one of my most vivid memories ever 
+I had one of these for the first time my third year in college, and my IMMEDIATE reaction was \"this is the greatest invention ever. who could've even thought of this. I love america\" 
+I love one-line code tricks! One that's only tangentially related but v cool is this 3blue1brown that implements a hamming code for error correction in one line 
+As a current prospective grad, I kind of feel unsure about what the right thing to do is here, because I know opinions vary a lot - I tend to only email if I've got specific questions about the group/institution, or if there's a connection already via my advisors 
+you're in her dms and can only tell the truth, i'm in her dms and can only lie, which way leads out of her dms 
+oh interesting mind if I ask what they are 
+Optical propagation sim code: 500ms\nReal-life optics: 0.2ms (basically instant but there's hardware limitations)\nEvery so often I'm amazed at how fast nature is at taking Fourier transforms 
+nothing to do at all with nationwide food shortages, we just decided we didn't need it! 
+Yeah what if I waited till 3am and then put this tweet out there as an alibi 🤔 
+wait also girlboss hours 
+As far as I'm concerned only you and I are above suspicion because it happened 3-5am our times 
+There's too many :)s tho, it feels like someone exaggerating a few of her personality traits. I'm still 80% sure it's Anna but other close mutuals are also suspect 
+I tried to sum up what this was about, but it's too multifaceted and awe-inspiring so I'll just say...I *need* everyone I know to watch this 
+nice I support this 
+are you looking for a new or 
+Oh wow I didn't just dream that 
+Ah yes the ovid vaccine, for when I want to be immune to roman poetry 
+Another way is to say df_dx = gradient(t -&gt; f(t, y), x)! 
+Tom Lehrer is a gift to humanity 
+Oh wait this is choose one of each row, (1/2)C8 
+But otherwise 1 
+2 because frog 
+oh hey it's debayan 
+it's voice-only recognition 
+ty for the description because without it I didn't actually know who was who lmao 
+I forgot that that was...a whole entire actual movie they made...with a sequel 
+to clarify, i volunteer as tribute 
+or excellent for productivity, maybe 
+love to live in england 
+I feel like just from following you I understand everything about Novack despite never having been to Dartmouth 
+!!! this was so cool when I first learned it! obligatory plug for Purcell's E&amp;M, my fav textbook to date 
+I didn't even try for when I enrolled bc I figured I wouldn't get it (also because \"adiastra\" as an official email was too good to pass up) and then I tried adding it as an alias junior year and it worked 
+also fr if you want help or solidarity I'm here! 
+this is mine, at least 
+i've got it, it's: slept well because i've started grad applications 
+I invested more time than I should've into making my own preamble from scratch, then putting it into a custom .cls and .sty - it's actually really paid off, at least until I had to start using journal templates lol 
+also here's some deer I saw yesterday! The royal parks website says this is either red or fallow + we found a pure white one too! 
+so after a bunch of googling I don't think the muntjac deer are around where I am rn (Twickenham) which is why they all looked the same. Now I wanna see a muntjac in person 
+This bit is getting a lil creepy ngl 
+Woah I never knew american deer were different! I'm having this same realization but in reverse lmao 
+(I had a pedagogy class too but as far as I remember they didn't say this) 
+Oh interesting, I figured you'd learn better just as a consequence of liking a certain style more? I was very conscious when TAing to present a few different intuitive pictures of everything mostly because I thought I should cater to learning styles 
+Oh no F 
+I'll be honest I feel like I'd like it if I understood it, but that's more of a me thing 
+Lemon cake! It's the recipe with a few substitutions, turned out great! 
+from yourself?? 
+okay a gigantic planet sized lens and a gigantic planet sized lens cloth (or at that scale more likely little cleaning robots) 
+also just a gigantic planet sized lens. I want my optical EHT :( 
+wait yes. this is the ultimate stellar rollercoaster 
+Idk why you need the high speed rail except for the vibes associated with zooming into the star 
+A Dyson sphere but around a star + planet system with high speed rail between them 
+sorry it's late and I'm indulging in being born-again British (complaining) 
+can't believe we're experiencing shortages of literally everything and what the opposition is giving us is \"hey do you want more police state stuff\" 
+tbh those three together perfectly fit the Labour bill of threading the line so perfectly that no one is happy 
+I don't understand these hyperfunctional people sometimes 
+i mean, it might be, idk my handwriting is too bad 
+but also not BLM I'm so confused 
+at least he doesn't support the police?? 
+How lovely 
+Oh hey you found the weird men again! ...W?? 
+anyway this tweet had a similar effect and caused me to fix my posture so ty 
+In my pedagogy class we had to do 3-minute presentations on any topic, and the one I still remember was someone who used their time to talk us through how to fix our posture right then and there 
+I'd like to do the latter, but more often if I get started with one thing and it's going well I don't want to switch away 
+Yeah but no mobile data, you could just not put your phone on wifi 
+depends on how good campus wifi is 
+\"kya AAPKE muh mein...\" 
+In a voice that's way too upbeat 
+as someone struggling with drafting a paper for the first time I needed to hear this 
+ah ty 
+wait I am also misinterpreting it the same way, what's the actual meaning 
+Big fan of the new George trend of supportively ratioing the mutuals 
+just use LaTeX and yours will become naturally superior 
+I will say I have a lot more faith in SpaceX engineers than I do in Elon personally, plenty of them want to do good work and that gives me at least a little bit of hope here 
+really wanna see people start to talk about \"yearning on main\" 
+omg you're in the best building in the world 
+you and both? 
+I like this litwick (apparently from the manga) that supports your interpretation 
+not related but I just noticed litwick has a lil smile! 
+tbh spend half a semester there and you kinda get where they're coming from 
+ahhh I miss this spot and every other spot on campus 
+\"galactic britain\" we can't even get from calais to dover 
+I have never once felt an earthquake even when everyone else around me has, and I'd love to keep it that way 
+Did this as soon as I got a Twitter 
+I'd go to that and I'd take everyone I know 
+combine it with astro, make a nighttime only petting zoo. Cuddle animals as you stargaze 
+becoming a youtuber* soon 👀\n\n*as a one-off thing for now but who knows 
+do it 
+also I laughed really hard at \"76 wasps\" 
+wait this is genuinely so good? It's very up goer five which is something I wish more scicomm could do 
+I like my workaround tbh 
+Keep him under close observation till October 31 
+Does anyone know what \"first grade class hamster rules\" might be? I said this a few days ago and realized I had no idea what I meant by it. (I never had a first grade class hamster to be clear) 
+vaccines *are* used for vaccination to be fair 
+I'm late by, like, seconds but go for ramen but nice 
+(deleted and reposted bc the URL literally had my email in plaintext. very legit.) 
+I thought Facebook was the Harvard-based Facebook? 
+I may have left the bay area, but it hasn't left me 
+everyone should ask this as if they're the first one to have this realization 
+wait this isn't your main? 
+very cool and easy one to start with: ham radio! Study for a few hours, take a multiple choice exam, and you get a cool callsign 
+Oh you have split loyalties now! This'll be an interesting November for you 
+fake news go bears! (as of 2019; please ignore 2010-2018 and 2020) 
+not even Dean Summerwind? 
+sorry I forgot you were on twitter 
+Ah fair 
+Wait isn't this your main 
+you got any tips for aspiring planetarium presenters? 
+this is very necessary physics humor! 
+wait would that actually be fraud? 
+he's screaming \"ratio\" 
+wait I wanna see the source thread can someone link 
+okay but consider, half rhyming hinglish slogans are perfectly on brand for India 
+Help I'm becoming that person whose whole personality is \"I used to live in California\" 
+Happy to provide content! 
+Aaaaa yay tell me more!! 
+That would only affect the last question though 
+I guess you could also argue that you could have a partner's money as a safety net? 
+both! (Or pick the one that's closer to your college colours lol) 
+!!! Good luck!!! 
+great tweet anna 
+ah yes, here's the key caveat: much of this country still does live in 1856 
+i mean, maybe in 1856 
+you're welcome 🥰 
+so true 
+So it's microtargeted humor that went unappreciated? I'd be mad too wow 
+What was the joke 
+January? It's a (long but doable) road trip for you this year 👀 
+How do you know it'll take that long? 
+you have a WHAT 
+I'm realizing this now! It was just the last thing I expected to see posted through my door in southwest London 
+no it's worse! they're ALSO still exponents sometimes :) 
+people are saying black holes are what now 
+all three diagonals of a hexagon, like this 
+it's kinda weird to get to a point in my mathematical education where I can ask for an example and the answer is \"all of group theory\" 
+I'm v invested in this, hope it works out!!! 
+hi idk what the feud is about but I'm here 
+I literally had to spoil the show for myself so I wouldn't, like, die of panic 
+If this is the second most reasonable application what's the most 
+Yeah but you didn't just go there for college lol for me this is, like, an identity crisis 
+this is homophobia :( 
+It sure has! Of all the things I miss about Berkeley, dining halls isn't one of them 
+is this cafe 3 
+no already?? stay strong 
+wait professors need WHAT 
+rip well good luck 
+lol also I had a weeklong takehome before covid made it cool, got like 45% on it 
+is it designed to run the full 10h?? I've had 24h ones but they're meant to be done in 3 
+Will this make it better or worse? 
+Tons of mind-blowing math, but what amazes me the most is - every time a root is moved around, Newton's method has to be rerun *millions* of times, but the fractal updates in real time! There's either some incredible mathematical tricks or some incredible coding behind the scenes 
+is this the goal of staff Patagonias 
+I love it without context 
+wait aren't colors 6 characters 
+is this a final fantasy shitpost 
+The top reply is so beautiful 
+sanjana get out of my brain pls 
+Yup it does, and then the pseudoinverse throws out all singular values &lt;= 1 * the largest singular value so that's fun 
+Count me in as the first tbh 
+This was pre the face reveal so I suspect this has changed a bit 
+\"Anna -&gt; every woman she follows\" I am deceased 
+if you're curious, this results in the zero matrix 
+every day I wake up and curse dynamic typing. I just spent hours tracking down a numerical bug that came down to me passing in True instead of a condition number and numpy just rolled with it 
+which moon tho 
+more in the series of \"george just trying to see something\" 
+Pure art 
+what's a more reasonable mistake to make 
+i thought this was a rocketry tweet 
+terf island reacts 
+a bond movie is only a good date idea if you're there to mock it (see: 
+this is how I realized it was 6:30pm and not the usual gm 5pm 
+You mean normal people don't talk like this? 
+yes it is 
+Wait I just got a snap from you? 
+as follower #11 this is disappointing but understandable 
+wait I always thought your students were younger too, that's incredible 
+it's yes either way I'm just curious 
+like silvery-grey white or WHITE white 
+did more of this in a qrt 
+updated source bc i might as well at this point. today has made me a vim programmer somehow. disgusting 
+if i were newton's method i would simply not blow up at points with near-zero derivatives 
+ah it's the origin bc f(z)/f'(z) blows up (f'(z) = 3z^2 = 0) 
+i wonder where that one missing point is 
+wait I messed up the complex-ification of z2, here's a fixed version that completes in half the time bc now it's *actually* got only a million points instead of 2 million. same general point tho! (also a better success rate) 
+so I tried this with one, a thousand, and a million points, and the result in the 2D case was...not fast - even more impressed now 
+naive (but vectorized, in the sense that the only for loop is over the iterations) implementation - am running the iteration for z2 now and it def doesn't seem \"update this graph in real time\" levels of fast lol 
+Yay it's been so hard missing the best part of twitter overnight 
+wait did i miss a bit 
+oh :( 
+Rip is this a Brexit thing? I heard ferries are being delayed because of that 
+Also hi isn't it way too late for either of us to be up 
+I would fund that tbh 
+Oh bio's a bit misleading, I'm an astronomer on a yearlong goodbye to pure math 
+(I support you being a theorist I'm just contractually obligated to always reply to \"if you will\" that way) 
+i will not 
+Yes me! Although it's more because I'm in the UK this year and it's a long trip, I probably would've made it from California 
+In today's progress update I zoomed WAY in on my lab's remote computer and couldn't zoom back out 
+I've made it 
+if you haven't seen this before there's a super neat approach with polar coordinates (or you can just use the fact that the gaussian distribution is normalized lol) 
+try the definite integral! 
+wait the bay area is incredible tho? what could they possibly want that they don't get there 
+ok anna you don't have to live tweet it 
+so true 
+AWW I love it 
+smh I came here to say \"apple kept the game the same with this one\" but I'm the third one to get there 
+Oh no I was bragging 
+Oh I gotta step it up 
+nvm this wasn't the error but my annoyance stands 
+today it's way too happy to multiply matrices with the wrong dimensions and let me deal with it five steps downstream, instead of just throwing an error when it happens 
+I have no idea what this means and I studied it for two years 
+you're half Californian already 
+oh whoops, it's, uh, magic just put there to annoy scientists 
+LaTeX is a \"what you get is what you want\" system and these warnings are saying \"you said you wanted x, the best I could do is y\" even if in practice y is fine 
+I only roughly know it myself but: even if you can see all the content, it's put there in a way that breaks something about how LaTeX thinks it should appear, eg if a word goes past the right margin length you defined at the top 
+love the coat!!! 
+okay I want that fourth one to be true! 
+gm Anna! 
+huh i see 0 but I get the notification, guess the app's broken 
+off topic but for some reason i don't see your likes any more? does my tweet above have 1 like or 0 when you see it 
+missing the gm tweet rn 
+idk this website moves fast 
+it's an international conspiracy :o 
+Hey I get the reverse! I always ask for no whipped cream and I get it 
+AAAAA (haha cheese borger) 
+also no tho you need to have *commitment*, do it yourself 
+tbh you can probably figure that out as easily as i can 
+hey my friend has a question for you 
+little known fact: MCMC actually stands for Multiple Chrome tab Monte Carlo 
+I found a reminder that I should be doing research inside mine 
+that's so cool!!! i wanted to do calteach but never had time :( 
+okay there's a followup joke here with radiative processes being called \"rad\" but I can't find it so just pretend it was really funny 
+woah what/where are you teaching 
+Right?? How dare they 
+yeah cal does but cambridge doesn't :( 
+I use this for everything, it's even one of my college emails (way quicker than writing out my full name) 
+(adi)tya + \"ad astra\" (to the stars) + birth year because adiastra is unavailable even though it's been inactive since 2012 :( 
+Wait what does 7a do 
+(I just had something I wrote in like July break and idk when or how lmao) 
+other lies: \"I don't need to write tests, I'll just build this carefully\" 
+wait how much of this was the dream and how much was irl 
+Sadly there's no *icelight\" 
+i don't wanna unfollow but also it would be really funny if i did 
+oo show us a sample 
+gives \"girlbossing too close to the sun\" a whole new meaning 
+important science time 
+wait what did you do to land up in court 
+\"the discovery of dark matter [Food, W., 2026] precipitated a scientific revolution...\" 
+I kinda love the idea of this being your perpetual alt that's more popular than main, and in the future your students will discover your double life as worm food and be amazed 
+granted that's not very common phrasing but still (I first wrote \"destroying oil pipelines to solve climate change\", which it says is irresponsible) 
+I just found out that \"solving climate change\" is good but \"destroying climate change\" is bad 
+I literally just learned about these two days ago. Understanding twitter jokes is now my primary motivation to learn more astro 
+I wanted to make a joke about burning the candle at both ends but that's not what the litwick line does 
+call me litwick the way im burning out 
+I hate seeing non-mathrm derivative d's 
+oh no i hate those :( 
+nope can't imagine why you'd think i would've said that 
+At the Northumberland telescope at the Institute of Astronomy in Cambridge! 
+Yeah am I just making this up lol I feel like I have such a strong memory of this existing 
+Astronomer friends, I'm blanking on something: there's a standard object or patch of sky that's been photographed thousands to millions of times and telescopes use it for calibration, but I can't remember what the object is or where it is, does anyone know what I'm thinking of 
+hey that means your draft was good! 
+you'd better be telling them yes 
+no more cigarettes ellen 
+for a second I thought you'd misspelled \"coup\" 
+w the exception that the spitter celebrity I know irl is and I did the move in the other direction 
+wait this is spooky that *almost* perfectly describes me 
+John Death, Esquire 
+bad tweet ellen (you got this!) 
+hm why is that turtleneck so high (thanks!!! ❤️) 
+Thank you Manav!!! 
+Thanks Jack! 
+you're not allowed to have a birthday 
+Thank you Anna!!! 
+Okay I just searched this and I didn't find the original song but I did find this Spotify playlist called \"pov: you're in the year 3000\" that does not seem to have the song \"Year 
+it's WHAT 
+Me too! I like not knowing until halfway through 
+Two months after I leave smh 
+tied second! 
+we're on roughly the same latitude? 
+My friend Aled and I made a set of lectures and homeworks for a class, called PhysCat. It’s short for Physics High-Performance Scientific Computing and Technology, because it wouldn’t be physics without a tortured acronym! Also, we’re both cat fans! Aled’s cat Nightwatch: (5/10) 
+Computational physics classes exist to remedy this, but there’s only so much you can do in one semester. So I started listing the gaps: asymptotics, high-level computer architecture, numerical issues, Git, documentation - and realized they’d make a perfect class! (4/10) 
+Physics students are often self-taught programmers, which means we have to learn a lot on the job and make our own mistakes. This means physics code is often hard to read, hard to maintain, and inefficient. (3/10) 
+If you want to jump straight to the content, our course website is at and all the lecture recordings are at I’m a little scared to post several hours of me talking, but my excitement outweighs that! (2/10) 
+Today I’m super excited to talk about, and share lectures from, the class I just finished designing and teaching as an undergrad as part of the DeCal program at - all about how physicists can use code as an effective research tool! A thread (1/10): 
+but also: lucky 10000, go listen to it! 
+I refuse to make any references that are less than 140 years old 
+sorry maybe I went too english 
+\"if I were a rich man I'd be very good at integral and differential calculus\" 
+alternate concept tho: pirates of penzance instead of pirates of the caribbean, get incredible mashup musical numbers 
+\"fiddling pirates on the caribbean roof\" 
+pro tip: be a non US citizen, that way you're already ineligible 
+That's definitely a bad take, but I don't think that response was at all justified? No one opposed his point, instead it was all about opposing him personally which 1. I don't think is justified and 2. won't help him revise his views 
+I just forgot about mine! 
+I just did a lab on nonlinear dynamics where I had to make a lot of these! Coincidentally, \"chaotic\" is also the best way to describe the report I turned in 
+This will all be gone in 45 seconds flat 
+Excited to go there tonight! Cc 
+What's it called? I want to see if I can get a hold of it too (more out of morbid curiosity than anything else) 
+on the other hand, this much commitment to nfts and musk is even more unreasonable so 
+it's a lot of commitment to the bit if so tho 
+yknow we'd be even more honoured if you would simply stop 
+\"ask and receive\" ok but who asked 
+I'm dying at \"so honored to be able to interact with people from “spitter”\" 
+I can't believe you're using your tiktok power for evil 
+- Andy Weir, \"The Egg\" 
+you can fool yourself into thinking you know almost anything in math if you just find a *really* good set of notes 
+nah that one's just zarina 
+no I'm backing you up bc that means you have to apply to Lamat to find out, you can't just go there rn 
+reminder that you're welcome 
+isn't she in Amsterdam rn 
+oh I interpreted this as you saying you're moving to berkeley 
+that doesn't narrow it down much lmao 
+I have a friend who works for Sandia and doesn't do kill! Is there anything it'd be helpful for me to ask her for you? 
+it is Done 
+on it 
+curl of grad school is zero. there's a joke here somewhere 
+math DOES suck I am in total agreement here 
+I can't believe they got a promotion from an account literally called Business Plug 
+happy supernovaember Sanjana! 
+this is true, schoolwork has been my most effective sleep aid for years 
+Did anyone ask you if the scar was supposed to be on the other side 
+wow I can't believe there's anyone out there who doesn't know it's mario, not mario 
+Hey me too 
+I remember the old days of \"can I reach 10k tweets before 200 followers\" 
+tbf at least there was documentation and examples but still 
+no i don't know what a \"sg02ad\" is but it just magically solved everything 
+the problem with computational science is all the super fast code is in bindings to C/fortran libraries, so you can get a 10x speedup at the cost of code that explicitly passes in tons of mysterious flags like this 
+hi me too? 
+OH he's correcting your grammar 
+What does this even mean 
+this sounds like the opposite of a problem 
+lmao failed censoring (check out the third paragraph) 
+what mountains 
+or worse, \"we can only afford to do astronomy if it helps the military\" 
+lowkey terrified that the decadal will just be, like, \"no more astronomy, we've done enough\" 
+a crossover episode?? 
+well, in the UK time zone too, at least 
+oh yeah I'm in the UK too! 
+that's okay! (the second bit) I am serious about helping, feel free to hmu 
+deeply cursed, dm me and I'll help you after I'm done despairing 
+Gun included? 
+has science gone too far 
+scheme is type II fun imo - valuable to have done it in the past, but awful in the moment 
+oh it's THAT part of 61a rn, have fun 
+hey Anna I see it's a normal evening 
+wait is there somewhere I can see the eldritch triangle monster? That's how I first learned it and I haven't been able to find it in books and stuff ever since 
+If you can find it you're welcome to it 
+Yeah it's greyed out on their official discography :( 
+I can't find it unfortunately! 
+at the request of here's the spotify playlist! 
+this is kinda the \"eleanor\" solution right 
+One time I literally went on a five minute rant about it before asking the person I was talking to for their name 
+had a great time at formal hall annoying everyone with astro2020 facts and folding paper cranes! 
+there's an illustrated summary! Lemme link 
+I've been saying \"luvex\" for the merger of luvoir and habex 
+I've been there and that place is huge, there's a good chance you wouldn't even see this section much less suffer at all from it being there. If they object that strongly to even seeing meat, I have bad news about what most of America is like 
+if it's so easy to write down laws of thermodynamics then tell me exactly where any individual particle is 
+I agree! 
+Yes I'd love to help out! 
+time to infiltrate an observatory so I can use their massive laser for, uh, adaptive optics reasons 
+wait nvm the plan there was to steal the moon not blow it up. disregard this joke 
+not sure of the budget there 
+what about group chats that span multiple time zones 
+actually i take that back, i don't know who actually decides these things 
+and yet, far from impossible 
+supply chain issues at the astronomy factory 
+it's also weirdly appropriate that the fate of astronomy for the next 10+ years will be announced on Diwali, the festival of lights 
+I would simply move my schedule instead of moving TIME ITSELF 
+omg did you hate the unsynced daylight savings between the US and Europe as much as I did 
+i left a lecture a few days ago at like 5:15 to a pitch black sky it's wild 
+wow that looks delicious! 
+\"the proof is in 182 parts\" 
+isn't it always tho 
+oof what's wrong w it 
+The C is for characterization and I haven't thought through the rest 
+Twitter is generating astronomer-style acronyms now! 
+p sure \"making irl mutuals this is crazy\" was the first thing I said to you 
+guy who doesn't want to pay his workers more than $17/hour because that'd push them up into the global 1% 
+mhm the thought that the sun could explode right now and the next 8 minutes are the last 8 minutes life on this planet will ever experience keeps me up nights 
+it does! this is the backbone of \"multimessenger\" astronomy: when we see gravitational waves, we can look at the source with a telescope and compare the GWs to the light we see from it, and that's possible because they both reach us at the same time! 
+ah no worries! It was just one panicked moment lol 
+I couldn't watch the briefing and this tweet terrified me 
+sounds recursive 
+like that is someone specific but fictional 
+fascinated by the idea that *not* liking a piece of media is a red flag 
+that's more like it 
+(im serious, stop it, this is a place for beef) 
+aw stop it 
+finishing my proofs by contradiction with the 👉👈 emoji 
+oh wow this explains every pre 2010 paper I've ever read 
+ooh the ones i know here are great 
+song you've got on repeat rn 
+wow your testing was symptom-free 
+This is your most unrelatable tweet 
+hi Anna and friends! This is nice 
+only in the Bay 
+down either way 
+what happens if I, a c*s man, like it 
+but also it's hilarious that she didn't even recognize your voice. Some impact your \"rudeness\" must've made 
+REI sounds like hell tbh 
+Every time I've been to the south bay I have thought \"I miss berkeley and oakland\" 
+this sentence could be the prompt for an award-winning fantasy novel 
+since you mention concerns, I'll just say that I am in fact concerned 
+this reminded me of how nice tqdm is 
+a maslow's-hierarchy style diagram of foundations of science with \"print statements\" on the very bottom 
+dw she won't find out from me this time 
+does she know you're twitter famous 
+I'm taking a PDEs class rn and these are so helpful thank you! 
+not sure what I have tbh, it's more fatigue/shortness of breath than a cold - but hoping we both get over whatever it is soon! 
+ty you too! ❤️ On the plus side I rediscovered how nice naps are 
+oh I have also been Taken Out by not-covid today it sucks 
+take a nap 
+ha way ahead of you I just woke up 
+what does he have against griffiths :( 
+oh hey GR 
+would you call that...changing the game 
+or I guess *feels* like it's from a totally different subfield is better phrasing 
+I like that we can casually prove the fundamental theorem of algebra, which is from a totally different subfield, as a consequence of complex analysis! I think that'd be fun 
+isn't that only moffitt? I def just walked into all the others (kresge, doe, physics/astro, vlsb, ...), unless they started doing it everywhere as a covid thing 
+but Anna where else will white men have a place in academia : ( 
+i would sign up for everything and back out later based on what won't be useful - you'll take the tests in may but you'll probably know where you're going by march 
+I've done it before + had instructors do it and it's turned out great! Usual rules about slides apply is all (don't just paste paragraphs of text, etc) 
+(I haven't seen the show I just know the congratulations meme) 
+oh it's even worse than I thought 
+I was trying to make a Newtonian/GR joke but was cursed with the gift of prophecy instead 
+I wrote this out as a meme but then I clicked through and the replies are throwing differential geometry terms around so maybe? 
+no see we got calculus right, it just turns out that the economy lives on a curved manifold so all the flat theory we developed is only true in the low-inflation limit 
+spitter couples therapy? 
+I usually think dual space, you set some isomorphism V -&gt; V* and it means the output of that - what else does it refer to? 
+ty ty i was gonna go to another one tomorrow but can't now :( but i will keep them coming when i can 
+fine 5 then 
+wow he's so smart i should be more like him and do four phds at once\n(my parents are actually great about this and telling me to rest! it's just me lmao) 
+eh i don't think you could make an economic system to abolish deadlines 
+omg play me (untimed tho I need time for naps between moves) 
+hate that my instinctive reaction to being sick is being worried about not getting research and grad apps done 
+lavender, fuschia, sky blue! 
+lmao me but in reverse. what do you mean it's week 6 I've already died of exhaustion 
+the BJP IT cell out there in full force in the QRTs. Real \"it hurt itself in its confusion\" moment 
+nice pun 
+:( sorry to hear that - maybe get in touch w some unis' LGBTQ+ student orgs to help you find a good place? 
+from what I've seen student communities are accepting! Media and timely healthcare are bad, but average people are alright (then again this is a cis perspective so idk if there's something I'm leaving out) 
+oh wow I missed the comphet bit of the original tweet bc I just focused on cillian murphy. What does this say about me 
+yeah hyped to check it out!! 
+it's always acceptable, take it from a citizen himself 
+just that I'd only heard of 1-5 bc I explore these on car radios 
+oh it's digital-only, that'd explain it 
+wait, there's a BBC 6? 
+to be fair, it's very difficult not to be obsessed with him 
+wooper alert 
+This place doesn't even seem real any more wow 
+wait I love the idea of an exact remake! I don't even want new graphics, I just want Pokemon names that aren't all caps lmao 
+nooo is it bad? I refuse to believe a sinnoh game could be bad 
+like, by definition 
+sure, but I would've gone to school with average RKP goers no 
+did you and I go to different RKPs 
+pipes slap, one of my fav small things about Julia is |&gt; 
+omg do you have bike access in Santa Cruz? If you do you gotta bike all the way down campus it's so good 
+happy to provide content as always 
+when not working, (nullpointerexception) 
+cool list but I'm partial to this argument myself 
+Spotify can't keep up with switches between podcasts and music lol. Congrats on the new cohost 
+\"the only red white and blue thing I own is a NASA sweatshirt\" is an excellent way of describing most of my friends' politics 
+join the dark side 
+I just realized I got this from my GR professor distinguishing spacetime (lorentz manifold) from Spacetime (the place where physics happens), and differentiating them in speech by saying Spacetime straight into the mic and maxing it out to incredible effect 
+Blocking Elon Musk instantly was the best quality of life decision I've made on here 
+One semester I was teaching multivariable calculus with the phi-polar convention, while I was taking physics classes with the theta-polar convention. I hate it so much 
+GP and gp? Or is that even worse 
+hi Anna! Thanks so much for finding and returning those 300 lost cats! Sorry they scratched up your Ferrari tho :( 
+if it helps I also hate mine rn 
+I have no idea what this is about but I support it anyway 
+\"y'all can't git commit to anything\" was right there 
+oh boy 
+fun* with time zones: I did a bunch of test runs of a thing on my laptop at ~5pm, then ran them on a Santa Cruz computer just after, at...9:30am. So the real runs are chronologically before the test runs in my directory\n\n*no one has ever had fun with time zones 
+I think you were the connection here lol 
+no cons do it 
+My friend says \"cumulonimbus\" 
+I think so too! I hope my TAs agree 
+In the sense of - it's something I read about in books, and didn't really think of as a real moment in time. \nNo doubt in 30 years covid will seem this distant and abstract? 
+I just went back to a lab report I did ~a month ago, and found out I submitted this 
+Of course 
+That really does feel like ancient history 
+update: just spent two hours debugging something where the error was I wrote \"i\" instead of \"j\" 
+I'm passionate about computational science right up until I start debugging something 
+hey ishaan let's get dinner at 66600 
+8+7 has a 5 at the end, and a 20 + a 40 + some overflow should be 70 so 75. \n(It's a bit vague and fuzzy honestly) 
+I would mock you for this but you're in today's lucky 10000! 
+i definitely am haunted now thx 
+Hey it works for me 
+I’m so glad I got the opportunity to do this, and to make a meaningful contribution to the Berkeley physics and general physics education community. I hope posting this publicly helps people as they learn how to code for their own physics research! (10/10) 
+Module 3/3: real-life tools. What’s Github and why do I need one? How do I read and write documentation? How do I structure my code? I also got my students to roast my old code as an educational tool, which was fun. (9/10) 
+Module 2/3: scientific computing. How do you know if a program’s fast independent of a computer? Why are for loops bad? How is probability used in computational science? Why are people switching over to How DO you get a good still image of your own face? (8/10) 
+Module 1/3: computer architecture. How does processing and memory work under the hood, and how can we leverage that for faster science (Numba and CUDA)? Students completed a Python-based instruction set architecture, and accelerated their code on a GPU. (7/10) 
+We’re just now wrapping up a successful 20-student first offering (of what I hope is many!) I’ll talk briefly about our three modules. (6/10) 
+same energy 
+i made it!! 
+\"the established women in math never complained!\" 
+Oof oh no but glad it happens to everyone sometime 
+It's simply better than the rest of the bay area 
+scary that the only reason I'm not this median is bc I just turned 22 a few weeks ago 
+omg i just saw this, even the camera works! this is so good 
+Up to speed again! Still feeling pretty dumb but at least I know not to do that next time 
+Oh fair enough I thought you'd still hide the left thing, but I guess that wouldn't make much sense 
+do it you wont 
+hi! I'm in the UK too, we should get in touch! 
+I'm being extremely stupid rn 
+yeah this is a learning experience lol, I used to have Google Drive sync and that would've saved me but it's not working now that I don't have the infinite student plan 
+(legit it's the only thing in my diffgeo class where I had literally 0% understanding or intuition) 
+oh no my only weakness 
+I really hope it's an academic rite of passage to lose a bunch of work you just did and have to redo it lol (I rm -rfd a git repo I'd merged somewhere else without checking for uncommitted changes and lost several pages of writing) 
+i have since received a parental command to get it now lol 
+it's true i was the uber 
+if you wait ~a month I'm gonna get myself a Switch as a present for finishing grad apps! Super down then 
+I'm crying this is incredible 
+plus stars are pretty and those ape things are hideous 
+they're just respectful of women in stem 😤 
+I just love that everyone's mocking the gendered restrooms at a house party 
+seeing this after having just committed to too many grad apps really hits hard 
+\"Wink (other eye)\" omg anna I'm dying 
+I remember always thinking to myself something like \"this would happen, (but sadly everyone involved has been eaten by bears)\" 
+It was everywhere when I was going through CBSE English about 10 years ago, drove me crazy 
+Outing you 
+I'm in hour seven of learning the language and just totally vibing 
+gitlet was the most type ii fun I've ever had - awful in the moment and so cool just after you've done it 
+nah I just know how eecs operates 
+this is ee16ab propaganda 
+Worm Food,\n\nThis is how I'm starting all my replies to you from now on 
+That is such a high res surprise pikachu 
+considering something monumentally stupid that would be incredible if i could pull it off 
+clearly we think alike 
+hey this is my stellar class today! 
+half of all the theorems I learn have the names of cal professors on them lmao. Like just doors I casually walked past in Evans 
+hey grad schools I've got a pitch for you 
+Clearly the compromise solution here is to make code open source, but so difficult to use that only the original developers will know how to do anything 
+Not that you should be committed to that in the first place, but conditional on that it's less weird 
+Okay but if you're committed to buying a $650+ watch, I almost feel like it'd be dumber to get the cheaper one on the grounds of fiscal responsibility lmao 
+\"in the 20s\" is deeply disturbing phrasing 
+When I get a cat I'm naming it Spinlock 
+This is extremely cursed 
+gin-and-to (nic on the next line) could work w the appropriate accent 
+it's python laughing in your face at your attempts to do anything actually in parallel 
+Well really it's been the biggest problem in my life for months but I only just found that out 
+In three days, I've gone from not knowing what the global interpreter lock is to it being the biggest problem in my life 
+Once at a dinner I asked an instrumentation astronomer if he considers himself an engineer and he went \"never insult me like that again\" 
+incredible i can't wait 
+ngl I'd love to see them try and write a journal paper. Watch as Quick Essay Services figures out what dark matter is 
+It's even in character, I can totally see \"you have such a way with words\" being an edgeworth comeback to a phoenix failed monologue 
+Oh what a beautiful ratio 
+Wait are there laws against that in America? I've never heard of this but that might just be bc Berkeley 
+i think for me it's that being on a direct train into London has big main character energy 
+\"biggest fear\" is a *wild* thing to have in a fun get-to-know-you post 
+haven't used this project myself, but I've used this structure a lot and it's worked pretty well! 
+love the nail polish! 
+noooo commiserate with 
+15 hours?? Good luck wow 
+Tbf a Cornell library isn't the least likely place to have something weird and ancient like that 
+I missed the \"about books\" in that sentence and was absolutely terrified 
+I'd watch! I enjoyed it last time 
+long story, but never fear, I'm learning rust after this 
+The particle physicists know what's up 
+What tweets today 
+ah one dollar per prop warning 
+You should tell them it also causes a massive boost in performance if you train on your test set 
+Like not as a meme?? 
+I'm literally using a book BY (a different also-at-cal) Evans 
+If no one's titled their AO talk \"smoke and mirrors\" yet, dibs 
+Acab includes this 
+I can't believe I saw this as a kid and was just like \"ah yes this is completely normal, please continue with the mystery story\" 
+this has to be like a negative six sigma food event even for this country 
+i can't believe you ratioed me with this 
+what was with the chicken suit 
+This is another case like the watch where trying to hold back a bit out of fiscal responsibility just comes off as ridiculous. You've committed to making it affordable and you're already revamping how the system works, just go all the way! 
+Not in the stupid form (this was about learning Rust overnight) but as you already know, yes! 
+but also I'm so jealous lol I set aside all day to write statements and got like one paragraph done 
+hell yeah! 
+how many's a lot, asking for a friend 
+I bet there's also a Laurent series/residue theorem solution, set it up so all the coefficients are 1 and solve a system somehow. That's the most overengineered way I can think of 
+Also got myself stuck thinking I couldn't actually say a involution has f^2(x) = x because we don't know what 2 is yet. Real Russell and Whitehead energy tonight 
+Wait I missed the obvious answer of just solving x = x/(x-1) LOL 
+when you add stuff to 1 it ends up bigger than 1, who knew 
+It feels like just a property of the numbers so I want there to be a way to find it without calculus 
+oh wild it's actually an involution! f(f(x)) = x, so you can never find out that 2 is a fixed point just by iterating a point away from it. Is there another way to do it without derivative-type information (like Newton's method on g(x) = f(x) - x))? 
+although I guess that follows from the first term being 1/x^0 = 1 lol 
+so f(x) = 1/(1 - 1/x)) = x/(x-1) &gt; 1 for x &gt; 1, which means you can't actually get the case I was worried about: the one where x is large enough that the sum &lt; 1, and you feed that into the next iteration to get it to blow up 
+whoops n=0 not i=0 
+How do you get the approximation to 2 that you plug into the 1/2^n term? I wonder if iterating the map f(x) = sum_{i=0}^inf 1/x^n enough times always gets you to 2 
+I could not make this headline any more anxiety inducing than this if I tried 
+going through all my SOP drafts and deleting the sentences that mention future JWST proposals 
+I'm being microtargeted, I wish I could follow twice 
+I have def been using \\Bat much less than I should 
+By the Rollback Stones 
+How does Ithaca just absolutely nail the best things in life? First ice cream now this 
+Grothendieck said what now 
+Oops I already can't stand to look at mine and I'm less than half done... 
+is also pretty great! 
+I can't believe I put effort into drawing this nice star only to find out the TeX for star is \\star 
+Fair enough, hope it works out! 
+Well only one of you has a cool necklace so 
+Yeah but with the plan that you'll drop one early on? I did this a lot in ug 
+wait is it a max of 15 as well? If not you could take 5 ug 1 grad and then pick one to drop 
+can you try it for a bit and drop if it's too much? 
+Uh rip here's the best I've got 
+consider me Got 
+what hall now 
+I have a very weird cross section of places I learned to pronounce things so I don't know if this is English, Indian, or just something I made up lol, all I can tell is it's clearly not American 
+it's not a very strong emphasis on the last syllable but I can tell the difference for sure 
+I really really hope not 
+ok I'm now officially too in my own head about this to even know how I would say this normally 
+Wait have I been wrong about this for years 
+Oops in this case I meant emphasis on the last syllable, so the verb is doc-u-MENT while the noun is DOC-u-ment 
+interesting, what makes this case different? I've always said document like how I described, is it maybe a regional thing? 
+Noun has the emphasis on the first syllable, verb on the second. I think this is a common pattern, e.g. it's also how I say \"record\" as a noun vs verb 
+won't even bother with the hyping up 
+ah yes,,, quality science journalism 
+this is happening to me a lot lately 
+This is like the reverse of me 
+Happy to be shielded from this part of the internet 
+this is basically a Cornell acceptance letter right 
+that's what I've got lmao perfect outflow from the center 
+You should team up with Anna on this 
+simply staring at this and sighing 
+Time to just talk on here instead of messenger so I can steal the top spot 
+Kinda early for sad boy hours isn't it 
+wait what'd they do 
+it's the greatest thing American culture has ever produced! 
+Hearing about deep fried butter was quite something 
+The greatest day of my undergrad career was when my friends introduced me to deep fried Oreos 
+Also just very good statistics on display. I don't think this is even a \"correlation is not causation\" because even a correlation needs two data points 
+supportive ratio 
+what's the base case 
+let's go 
+Also how is \"third tweet ever\" an insult and why is it something he's looking up. Why does Neil care about this. Real moment 
+I don't have words to describe how stupid this is, it literally means something different?? Love to test solutions to the definitely real killer asteroid problem 
+has anyone had to cite the python docs before? How do you put it in a bibtex? (Alternatively how do you provide a more academic citation for what the Global Interpreter Lock is) 
+also the word \"prestigious\" now has no meaning 
+many things to criticize but how does a cs major prefer Dubai to the bay lmao. That and the Berkeley slander, can I get a go bears 
+it's awful I hate it too 
+all of November so far 
+she said \"wrong answers only\" 
+Wait is it? Now I'm not sure, this is hard 
+OH you meant something completely different, yeah for me it's the same sounds just different stress 
+*stares in October scorpio* 
+I have simultaneously never seen this and know perfectly what you mean 
+i wonder if I know anyone else who loves this movie and who had me over at their house to watch it 🤔 
+it IS the Sun so journalism is bound to be bad, here's a better source 
+oh that is a Young sid 
+plus the same three on shattuck for when you feel adventurous 
+hmmmm wonder when you did that 
+but you're already southside 
+more importantly how'd you ever go there and not stop by to see me 
+well nothing for it i gotta go back 
+i lived literally two blocks from the 7-11 on telegraph for two years and walked past this place hundreds of times how did i never go in 
+\"spupid\" is already a double contraction tho 
+wait I've never been here 
+la note!!! 
+The worst one I ever had was \"Aam\". I have no idea how they got that from \"Aditya\" 
+They really just left out \"ionization\" and absolutely nothing else from that acronym huh 
+yeah guessing qso is quasi-stellar object 
+wait okay let me try: oxygen-iron low(?) broad absorption line quasar (where I think quasar is itself an acronym for something else)\n\nidk what's low in it though, the amount of absorption? 
+I literally don't even understand this meme 
+parking and no parking days 
+uh what 
+wait was that the original joke nvm 
+or worse, when you might run into bland food 
+we're all our own worst critics! I've hated things about how I look in photos that friends tell me aren't apparent/aren't problems at all 
+this is false the photo's amazing 
+Getting into BOTW and I'm just blown away by the sound design. The first low note in the Guardian encounter music evokes more terror in me than anything that could show up on the screen 
+Ooo lmk what you think of axiom's end, it's been on my list for a while 
+It's like writing regex 
+Omg you did the thing I said 
+wait this is genius 
+we're the spiderman: no way home 
+This implies kids can be bad when they're not around the elf 
+Ooh this is a high score contender 
+POV: you don't know about linguist-documentation or you are an astronomer or both 
+this is just like 1999 
+Thanks Deana! Can't wait to get started at Santa Cruz! 
+Thank you!! Go Bears! 
+Thank you! 
+Thank you! 
+this is my ETA 
+In this paper I will be there in about an hour or so 
+Graduated with a bachelor's in Engineering Physics and Engineering Mathematics &amp; Statistics from UC Berkeley today! 
+You were up for it anyway so 
+Why are you tweeting get your head in the game 
+st*tisticians are no fun 
+someone out there has the SSN 314-15-9265 and they can't tell anyone 
+i legitimately almost ended a discussion section with \"don't forget to like and subscribe\" once 
+it sure is 
+Happy to chat more about these! Zernikes are really useful but fitting with them can be subtly difficult (in particular they're the FTs of psf aberrations and not the aberrations themselves) so lots of interesting science I'm still in the middle of figuring out 
+this tweet reminded me to take my gummy vitamins today ty 
+here before this blows up (to 1e+308) 
+Yeah I guess I meant it's only one sine wave each 
+the o(rego)ni(o)n 
+or did you 
+omg it keeps getting better! 
+Where is this incredible place. Kalman filters are half of my identity 
+...i say, coming off work at 12:20am 
+woah there don't overcorrect, we love productive rage but we hate burnout 
+I did it!!! This is one of the weirdest issues I've ever had 
+I've literally been debugging the dumbest python issue for hours (two versions of the exact same code producing different results, and the jury's still out on why) so I feel this in my soul 
+TAd a data structures lab a couple summers ago, and my co-TA got a bunch of rubber ducks in so everyone could have one to do this lol. I still have mine somewhere! 
+and its close cousin, \"assert False\" 
+hire me 
+it's really just sine waves, but there's something aesthetically nice to me about the orange plot here 
+Did you make it 
+you'd think people in this country, of all places, would know when something is and isn't tea 
+aaaand all the fast trains from London to Cambridge are cancelled so that's my whole day gone 
+unmasked man coughing on the tube opposite me. this is how I die 
+Unless it's in the sense of you pick what goes into it 
+Wait no you don't 
+Oh that's a long thread, I thought it was 13 but it is not 
+also why would you *brag* about paying for it? 
+oh yeah and mathematicians are so much better huh 
+guess I should thank for introducing me to the song too 
+and 2-5 of the top songs, 1 was only stolen because I read Anansi Boys lmao 
+spotify wrapped giving me zero surprises 
+anything that helps wean matlab addicts off is good imo, we've lost a lot of good talent to it 😔 
+woah that was FAST, congrats! 
+Wait they also literally quoted Gandhi??? That's wrong in so many ways 
+being shown an ad for the police, of all things, with an Indian face and name attached to it, feels...icky, to say the least 
+I got \"record\" from that but that's about it 
+I do in fact live in a college and soon you will too 
+oo what's on the agenda 
+wait lol I didn't mean coast I meant side of the Atlantic, there's an americanism right there 
+I have the worst mix of american and british english lol no one on either coast is happy 
+Alexa play the wall by pink floyd 
+just scroll up and look at my take on this again 
+Submit to arxiv! Also this is no joke the #1 benefit of being at a university, you get free logins to everything 
+ah try now 
+Can you see what countries? Wondering if the 2 is me before and after August lol 
+The real trick is print and then \"assert False\" instead of a breakpoint 
+same but add an ocean :( 
+yeah for you to go to mezzo! or jupiter 
+(I checked your follower list before posting this dw) 
+you should count repeats with a sufficient time interval 
+love the occasional confirmation that my mother reads my tweets 
+vote Ellen! 
+Wait you designed a programming language?? 
+Ooo great choice 
+um excuse me 
+your top playlist is called \"bops to fight the big sad\" so that checks out 
+Big think 
+Who hurt you 
+the duality of he/they 
+Obsessed with \"people don't think about expense with X\" immediately followed by \"you find a way to afford it\". Surely finding a way to afford it means you're thinking about the expense?? 
+at the risk of tagging well above my twitter clout, would agree 
+go up to the roof!!! it's my fav place in the world 
+:( but fair 
+What happened lmao 
+Shoutout to London trains for having wifi that's not quite good enough for me to work, leaving me no choice but to play BOTW 
+ah yes SAT scores, the most accurate way of judging someone's astrophysics credentials 
+Got this answer (with the caveat \"I might just be making this up\") 
+at a guess I think \"some\" means about 50% 
+got me to binge HIMYM during grad app season and I feel similarly 
+Bring it on 
+I would love to be told this 
+Off the top of my head I'd say calculate the minimum separation between distinct targets in each catalog individually? 
+Does this have the whole Hozier album on here (not that that's a problem it's great) 
+I don't understand why they're all so ugly? At least make your art worth the environmental damage ya know 
+well, you say tomato 
+You're stronger than me then! It did nothing for me but provoke anxiety lol 
+wait he retired? 
+don't even joke about it 
+don't you dare 
+\"if you ratio a professor they have to let you into their grad program\" as the new \"if the teacher doesn't show up in 15 minutes you're legally allowed to leave\" 
+i need to find botw twitter (they're probably in 2017) 
+Obsessed with hashtagging blood 
+me, 5ish hours into the main quest in botw: \"oh sick, a shrine in the middle of the ocean, let me go check it ou-\" 
+did we need to know about it tho 
+me neither ooof 
+dunking on misogynists/homophobes/transphobes/etc who show up in your mentions with no apparent purpose in their lives 
+just say you love everyone except men, we'll get it 
+scenery, lighting, your smile, it's just all great! 
+well you ARE american so that's half of it 
+hey I have a YouTuber to recommend who could help with all three 
+Not Fourier Transform 
+math but swirly 
+Wait what's your \"big three\" 
+Just found this taped up at home from the previous occupants. Good luck to Ben and Maddie wherever they are 
+I didn't know if it was open then 
+ok at least add me (adiastra) 
+there's a spitter and friends chess gc that started if you wanna join! 
+REI, more like REturning here is Impossible 
+normally I'd say Patagonia was an essential part of the bay area starter pack but you've one-upped that, nice 
+oh this is so good! it's actually so hard to find good references for this, I've been on like 100 different websites explaining Kalman filtering + LQR and v few of them do it well or completely but this one seems to 
+scribbling \"love is not a symmetric binary relation\" in the margins of my school notebook 
+The real answer to \"is there life out there\" is \"not any more\" 
+friend recommendation 
+Some day I wanna hear about what actually happened with **** 
+Ah right I forgot how twitter works 
+Plot twist: I'm a deep cover plant from them and I've been working towards this intel all year 
+Is it even worth censoring when both of us on here know what it stands for LOL 
+why get an alt when i could just send anything I'd rt on there to to rt instead 
+it's the Ben Shapiro of it all 
+Oh this is amazing 
+woah twitter world crossover! I thought only the astronomers were doing this 
+This is after I spent 20 mins cryonis-ing over the water to get there smh 
+I broke my two most powerful ones, got killed in one hit, and decided to just warp back lol 
+just threw in a bunch of adaptive optics terms 
+me too 
+I'll admit simulink is good but that's it, otherwise the UX of Matlab + closed source + lack of speed or control kills it for me 
+no like, what's the it in \"it's called astropy\" 
+Matlab is cursed 
+not sure what \"it\" is in this question lol 
+welcome to the club 
+damn i gotta step it back up 
+I have discovered that the shame from this incident is the reason Ellen cancelled on ME four years later at the same exact place. I can't believe this has a backstory 
+drag her 
+Only if you're affiliated or physically there unfortunately! 
+ah it might, happy to take your word for it in that case lol 
+we're in the grad apps time zone 
+is there somewhere non-Caltech people can see it? 
+maybe the real heist was the friendship we stole from this reinforced and guarded vault along the way 
+I haven't heard of this before but \"money heist\" sounds so dumb lol. As opposed to what 
+In the US when I had a covid scare I checked three CVSs and finally paid $25 for a test.\n\nIn the UK, I can grab a free pack of 7 from an NHS van without even getting off my bike. 
+anecdotally astro/phy classes have curves w 60% at about a B (ofc no idea if that applies to NC State) 
+thank you Manav! 
+i tried 
+some day soon 
+is...the first thing... something a lot of people say?? 
+Wait this is so interesting, what kinds of things have biblical undertones to you? Bc I've rarely to never thought that 
+absolutely fascinated by this reply. there's three \"points\", none of which have anything to do with the original topic. Perfect twitter moment 
+I'm sensing a pattern here 
+emailed, thanks! 
+Reionization plays a lot of Selena Gomez 
+I had a stupid idea and spent about 20 seconds executing on it 
+emailed, thanks! 
+M for manav 
+any chance I know any grad students/similar who'd be willing to look over an SOP? I'm happy with it but just paranoid lol 
+I'd do (astro/phy) and (engineering), and also (others) bc we have friends in neither of those too 
+run a poll! 
+(itar for obvious reasons, the pandemic bc it cancelled the one non-itar internship I could get in summer 2020) 
+oof itar and the pandemic are a lot of why I'm not an engineer rn 
+no prized for guessing what language I'd recommend instead 
+most of spitter is actually engineers I think - there's a slightly different circle of astronomers on here with some overlap but I think the median member is an engineer 
+plus lots of hpc python is wrapped c or cython so python scales better than Matlab beyond this too 
+At scale it does about what python does but without any of the python usability 
+since it wasn't burned in 2020, I'll say being burned is a bones year. It's probably actually a fair metric - how motivated is anyone to actually burn the thing 
+idk what any of you are talking about it's 9am 
+my hypothesis was right! 
+if it's any consolation idt I've ever met anyone who doesn't feel this way about their old code 
+wait actually when I'm more free I'd be really down to offer quick research code reviews/mini consultancies, will file this as an idea for 2022 
+lol lemme get through app season first 
+Writing docstrings is my fav form of productive procrastination! 
+I just looked this up and would like to propose it as a year-timescale version of bones or no bones 
+oh and also except white 
+literally all of them except green 
+somewhere on the backend there's a 100 - sum(options[:-1]) 
+lmao at twitter roundoff 
+wait you have MCQ boards?? is this a covid thing 
+pre pre boards just sounds so dumb 
+you have to 
+i don't think i got the grant right but that was the idea 
+it was something like \"twitter is wild, you'll follow accounts for shitposting and one day they'll just announce that they won a macarthur genius grant and are actually a serious academic\" 
+this has been great for me! 
+Oh you did it 
+one of my fav moments in college was finding white cat hair all over my blazer 30 mins before grad pics...and 9 months after I'd given back the cat I was looking after 
+I learned it as a covid procrastination thing! Forgot some but remembered this much 
+proud I could decipher this without looking it up 
+hard agree 
+this is how I feel about *any* possible SOP intro 
+Yup am looking at that now, thank you! 
+That's right - I'm just in a weird edge case because I got vaccinated in America way before it was rolled out to my age group here 
+At 9 months but can't get it yet because of the age restriction :( hoping it'll open up soon! 
+hmu if you've got questions! I love talking to people about getting started w coding (+ teaching, time permitting) 
+this is uncomfortable to read 
+there needs to be a knock on wood option bc for the past several months I have knocked on wood whenever I've said anything about the telescope. Even in, like, serious meetings with professors 
+I count that as a win because it means I have to spend much less time thinking about emails 
+this has been happening to me so much on here 
+yeah I think they ask this for things like tax purposes, so any not-married state is equivalent 
+International students at many places actually have to pay more than domestic ones! I have no idea why 
+ok BA is pretty nice to kids so I would've just gone with it 
+this is so amazing!!! 
