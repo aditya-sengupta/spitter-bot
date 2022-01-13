@@ -15,14 +15,15 @@ no_single_words = lambda t: len(t.split(" ")) > 1 # removes single-word tweets
 
 tweets = [l for l in open(fname, "r") if "full_text" in l] # get the correct .js lines
 # These apply the above functions to the tweets
-tweets = map(get_text, tweets) 
+tweets = map(get_text, tweets)
 tweets = filter(not_retweet, tweets)
 tweets = filter(no_bad_word, tweets)
 tweets = map(no_at_or_url, tweets)
 tweets = filter(no_single_words, tweets)
 
 # This writes the result to a text file
-os.remove('tweets.txt')
+if os.path.exists('tweets.txt'):
+    os.remove('tweets.txt')
 with open('tweets.txt', 'w') as f:
     for t in tweets:
         f.write(f"{t} \n")
